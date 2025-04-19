@@ -13,7 +13,10 @@
 
 	<figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
 		{{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
-		<img class="thumbnail__image" src="{{ $thumbnail | relURL }}" alt="{{ .page.Title }}">
+		{{ $img := .page.Resources.GetMatch $thumbnail }} <!-- Leaf Bundle対応 -->
+		{{ $src := $thumbnail | relURL }}
+		{{ with $img }}{{ $src = .RelPermalink }}{{ end }}
+		<img class="thumbnail__image" src="{{ $src }}" alt="{{ .page.Title }}">
 		{{ if eq $class "list" }}</a>{{ end }}
 	</figure>
 	{{- end }}
@@ -23,7 +26,7 @@
 
 	{{- $class := .class }}
 
-	{{ if eq $class "list"}} 
+	{{ if eq $class "list"}}
 	<figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
 		{{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
 		<img class="thumbnail__image" src="/logo/logo_4.png" alt="{{ .page.Title }}">
