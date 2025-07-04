@@ -27,6 +27,5 @@ jobs:
         run: |
           unzip "${{ steps.create_temp_dir.outputs.TEMP_DIR }}/hugo-site.zip" -d "${{ steps.create_temp_dir.outputs.TEMP_DIR }}/unzipped"
           rm -rf ../../../../public
-          mkdir -p ../../../../public
-          mv "${{ steps.create_temp_dir.outputs.TEMP_DIR }}/unzipped/public/"* ../../../../public/
+          mv "${{ steps.create_temp_dir.outputs.TEMP_DIR }}/unzipped/public/" ../../../../
           rm -rf "${{ steps.create_temp_dir.outputs.TEMP_DIR }}"
