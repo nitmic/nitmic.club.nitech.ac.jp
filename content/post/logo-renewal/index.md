@@ -3,7 +3,7 @@ title: "NITMic のロゴをリニューアルしました"
 date: "2024-04-10"
 thumbnail: "padded-logo-short_dark.svg"
 categories: ["記事"]
-tags: ["NITMic", "2024"]
+tags: ["NITMic", "2024", "イラスト", "デザイナー"]
 authors: ["fjktkm"]
 aliases: "0020"
 ---
