@@ -4,7 +4,7 @@ date: "2023-11-18"
 thumbnail: "tweet-ad_1.png"
 categories: ["作品紹介"]
 description: "NITMic の部誌 Archives 2023 を発行しました！"
-tags: ["NITMic", "2023", "工大祭", "部誌"]
+tags: ["NITMic", "2023", "工大祭", "部誌", "C0de"]
 authors: ["fjktkm"]
 aliases: "0017"
 ---

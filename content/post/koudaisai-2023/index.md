@@ -3,7 +3,7 @@ title: "NITMic ゲームセンター 2023"
 date: "2023-11-18"
 thumbnail: "thumbnail.jpg"
 categories: ["記事"]
-tags: ["NITMic", "2023", "工大祭", "NITMic ゲームセンター"]
+tags: ["NITMic", "2023", "工大祭", "NITMic ゲームセンター", "部誌"]
 authors: ["Mass"]
 aliases: "0022"
 ---

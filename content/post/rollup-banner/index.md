@@ -4,7 +4,7 @@ date: "2024-11-16"
 thumbnail: "IMG_4789.JPG"
 categories: ["作品紹介"]
 description: "NITMic の広報用のロールアップバナーを制作しました！"
-tags: ["NITMic", "2024", "工大祭"]
+tags: ["NITMic", "2024", "工大祭", "デザイナー"]
 authors: ["fjktkm", "Oru", "kk"]
 aliases: "0018"
 ---
