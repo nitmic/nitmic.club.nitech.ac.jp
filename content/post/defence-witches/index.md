@@ -1,7 +1,7 @@
 ---
 title: "DefenceWitches"
 date: "2019-11-30"
-thumbnail: "DefenceWithces_img.png"
+thumbnail: "DefenceWitches_img.png"
 categories: ["作品紹介"]
 description: "Myaa が 2019 年に制作したゲームの紹介です．"
 tags: ["NITMic", "2019"]

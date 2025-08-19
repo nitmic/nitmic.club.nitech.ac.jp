@@ -21,7 +21,7 @@ CD は完売してしまいましたが、[こちら](https://soundcloud.com/nit
 
 Ilust - kk, ジュンセイ
 
-Design - 未底
+Design - fjktkm
 
 Artist - Mass, Thike, chq, shenzel
 
