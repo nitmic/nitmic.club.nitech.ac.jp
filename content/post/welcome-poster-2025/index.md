@@ -5,7 +5,7 @@ thumbnail: "2025_kujira_poster_twi.png"
 categories: ["作品紹介"]
 tags: ["2025", "新歓", "デザイナー", "新歓ポスター"]
 sidebar: "right"
-authors: ["ウナギ", "くじら", "ごみっきぃ", "ねぎ塩", "fjtktkm"]
+authors: ["ウナギ", "くじら", "ごみっきぃ", "ねぎ塩", "fjktkm"]
 menu: "main"
 ---
 
