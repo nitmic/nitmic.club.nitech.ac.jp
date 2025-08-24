@@ -5,12 +5,12 @@
       {
         "Name": "さいわ",
         "Icon": "/images/members_icon/2023/さいわ.png",
-        "visible": false
+        "visible": true
       },
       {
-        "Name": "柚木",
+        "Name": "柚子",
         "Icon": "/images/members_icon/2023/柚子.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "メメ",
@@ -25,12 +25,12 @@
       {
         "Name": "はるさめ",
         "Icon": "/images/members_icon/2023/はるさめ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "SoyMaple",
         "Icon": "/images/members_icon/2023/SoyMaple.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "yamaaaa",
@@ -40,7 +40,7 @@
       {
         "Name": "ラムのみ",
         "Icon": "/images/members_icon/2023/ラムのみ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "アサヒ",
@@ -60,12 +60,12 @@
       {
         "Name": "じーぶ",
         "Icon": "/images/members_icon/2023/じーぶ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "ひいす",
         "Icon": "/images/members_icon/2023/ひいす.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "じめんドラゴン",
@@ -75,22 +75,22 @@
       {
         "Name": "karanasi",
         "Icon": "/images/members_icon/2023/からなし.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "獺祭",
         "Icon": "/images/members_icon/2023/獺祭.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "わっち",
         "Icon": "/images/members_icon/2023/わっち.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "ウナギ",
         "Icon": "/images/members_icon/2023/ウナギ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "田中くん",
@@ -127,10 +127,6 @@
         "visible": false
       },
       {
-        "Name": "ウナギノキモチ",
-        "visible": false
-      },
-      {
         "Name": "ガフ",
         "visible": false
       },
@@ -139,8 +135,8 @@
         "visible": false
       },
       {
-        "Name": "豆腐",
-        "visible": false
+        "Name": "h_ryo",
+        "visible": true
       }
     ]
   },
@@ -150,12 +146,12 @@
       {
         "Name": "name",
         "Icon": "/images/members_icon/2022/name.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "iiTAi",
         "Icon": "/images/members_icon/2022/iiTAi.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "Shiwasu",
@@ -165,7 +161,7 @@
       {
         "Name": "Reid",
         "Icon": "/images/members_icon/2022/Reid.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "シングチ",
@@ -174,17 +170,17 @@
       {
         "Name": "ショコラ",
         "Icon": "/images/members_icon/2022/ショコラ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "cacao",
         "Icon": "/images/members_icon/2022/cacao.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "Seirios",
         "Icon": "/images/members_icon/2022/Seirios.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "亀",
@@ -198,12 +194,12 @@
       {
         "Name": "まつ",
         "Icon": "/images/members_icon/2022/まつ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "わたあめ",
         "Icon": "/images/members_icon/2022/わたあめ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "テト",
@@ -223,7 +219,11 @@
       {
         "Name": "Oru",
         "Icon": "/images/members_icon/2022/Oru.png",
-        "visible": false
+        "visible": true
+      },
+      {
+        "Name": "kei",
+        "visible": true
       }
     ]
   },
@@ -252,7 +252,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/kk.jpg",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "S.A.Taz",
@@ -356,7 +356,7 @@
           "2Dデザイナー"
         ],
         "Icon": "/images/members_icon/2021/fjktkm.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "塩味",
@@ -364,7 +364,7 @@
           "3Dデザイナー"
         ],
         "Icon": "/images/members_icon/noicon_paple.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "ジュンセイ",
@@ -372,7 +372,7 @@
           "3Dデザイナー"
         ],
         "Icon": "/images/members_icon/2021/ジュンセイ.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "乙矢",
@@ -396,7 +396,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2021/Thike.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "Mass",
@@ -404,7 +404,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2021/Mass.jpg",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "セレン",
@@ -420,7 +420,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2021/shenzel.jpg",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "たくみ",
@@ -453,7 +453,7 @@
         "Twitter": "https://x.com/dokudamichang",
         "Homepage": "https://scrapbox.io/dokudamibox/",
         "Git": "https://github.com/ysdzm",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "kuru",
@@ -462,7 +462,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/kuru.png",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "りーくん",
@@ -546,7 +546,7 @@
         "Twitter": "https://x.com/TmgHiro",
         "Git": "https://github.com/tamaki380",
         "Homepage": "https://tamaki380.github.io/myhomepage.github.io/index.html",
-        "visible": false
+        "visible": true
       },
       {
         "Name": "mitsuya",
