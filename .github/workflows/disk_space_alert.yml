@@ -29,6 +29,7 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### 📂 ディレクトリごとの使用量 (actions-runner直下)" >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
+          echo '$ du -h --max-depth=1 ~/actions-runner' >> $GITHUB_STEP_SUMMARY
           du -h --max-depth=1 ~/actions-runner | sort -h | while read size dir; do
             echo "${size}  $(basename "$dir")" >> $GITHUB_STEP_SUMMARY
           done
