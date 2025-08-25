@@ -27,9 +27,9 @@ jobs:
           echo "現在のディスクの使用量は ${DISK_USAGE} GB / ${TOTAL_DISK} GB です。" >> $GITHUB_STEP_SUMMARY
 
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### 📂 ディレクトリごとの使用量 (home直下)" >> $GITHUB_STEP_SUMMARY
+          echo "### 📂 ディレクトリごとの使用量 (actions-runner直下)" >> $GITHUB_STEP_SUMMARY
           du -h --max-depth=1 ~/actions-runner | sort -h | while read size dir; do
-            echo "- ${dir}: ${size}" >> $GITHUB_STEP_SUMMARY
+            echo "- $(basename "$dir"): ${size}" >> $GITHUB_STEP_SUMMARY
           done
 
       - name: Check Threshold
