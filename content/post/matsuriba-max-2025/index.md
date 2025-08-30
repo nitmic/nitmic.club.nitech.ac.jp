@@ -1,6 +1,6 @@
 ---
 title: "NITMic MatsuribaMax参加録"
-date: "2025-8-28"
+date: "2025-8-30"
 thumbnail: "20250301_134208.jpg"
 categories: ["記事"]
 description: "2025年3月1日開催のMatsuribaMaxにNITMicがブース出展を行いました"
