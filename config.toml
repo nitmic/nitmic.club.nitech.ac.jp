@@ -39,6 +39,7 @@ pager = true
 post_meta = ["date", "author", "categories"]       # Order of post meta information
 highlightColor = "#ff9305"                         # ハイライトカラーを変更
 customCSS = ["css/style.css"]
+ogImageDefault = "logo/logo_2024.png"             #OGPに使用するデフォルト画像
 
 [Params.logo]
 image = "logo/logo-horizontal_light-color.svg"

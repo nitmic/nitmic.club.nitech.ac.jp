@@ -9,7 +9,7 @@
 
 	<!-- OGP / Twitter Card -->
 	{{/* 画像URLを決定*/}}
-	{{ $ogImage := "https://nitmic.club.nitech.ac.jp/logo/logo_2024.png" }}
+	{{ $ogImage := (.Site.Params.ogImageDefault | absURL) }}
 	{{ with .Resources.Get .Params.thumbnail }}
 	{{ $ogImage = .Permalink }}
 	{{ end }}
