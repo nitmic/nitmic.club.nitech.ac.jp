@@ -7,34 +7,38 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 
-	<!-- Twitter Card Metas -->
+	<!-- OGP / Twitter Card -->
 	{{/* 画像URLを決定*/}}
 	{{ $ogImage := "https://nitmic.club.nitech.ac.jp/logo/logo_4.png" }}
 	{{ with .Resources.Get .Params.thumbnail }}
-		{{ $ogImage = .Permalink }}
+	{{ $ogImage = .Permalink }}
 	{{ end }}
 
-	<meta property="twitter:card" content="summary" />
-	<meta property="og:title" content="{{ .Title }}" />
-	<meta property="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+	<!-- OGP -->
+	{{- if .Site.Params.opengraph }}
+	{{ template "_internal/opengraph.html" . }} {{/*テンプレート呼び出し*/}}
 	<meta property="og:image" content="{{ $ogImage }}" />
+	<meta property="og:site_name" content="NITMic">
+	{{- end }}
+
+	<!-- Twitter Card Metas -->
+	{{- if .Site.Params.twitter_cards }}
+	{{ template "_internal/twitter_cards.html" . }} {{/*テンプレート呼び出し*/}}
 	<meta property="twitter:url" content="{{ .Permalink }}" />
 	<meta property="twitter:site" content="@nitmic_twi" />
 	<meta property="twitter:creator" content="@nitmic_twi" />
+	<meta property="twitter:image" content="{{ $ogImage }}" />
+	{{- end }}
 
+	<!-- Schema -->
+	{{- if .Site.Params.schema }}
+	{{ template "_internal/schema.html" . }} {{/*テンプレート呼び出し*/}}
+	{{- end }}
 
 	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
-	{{- if .Site.Params.opengraph }}
-		{{ template "_internal/opengraph.html" . }}
-	{{- end }}
-	{{- if .Site.Params.schema }}
-		{{ template "_internal/schema.html" . }}
-	{{- end }}
-	{{- if .Site.Params.twitter_cards }}
-		{{ template "_internal/twitter_cards.html" . }}
-	{{- end }}
+
 
 	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
 	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
