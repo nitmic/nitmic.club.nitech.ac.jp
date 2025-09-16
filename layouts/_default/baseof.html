@@ -18,16 +18,18 @@
 	{{- if .Site.Params.opengraph }}
 	{{ template "_internal/opengraph.html" . }} {{/*テンプレート呼び出し*/}}
 	<meta property="og:image" content="{{ $ogImage }}" />
-	<meta property="og:site_name" content="NITMic">
+	<meta property="og:site_name" content="NITMic" />
 	{{- end }}
 
 	<!-- Twitter Card Metas -->
 	{{- if .Site.Params.twitter_cards }}
 	{{ template "_internal/twitter_cards.html" . }} {{/*テンプレート呼び出し*/}}
-	<meta property="twitter:url" content="{{ .Permalink }}" />
-	<meta property="twitter:site" content="@nitmic_twi" />
-	<meta property="twitter:creator" content="@nitmic_twi" />
-	<meta property="twitter:image" content="{{ $ogImage }}" />
+	<!-- twitter:cardは後ろに書かれたものが優先される -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:url" content="{{ .Permalink }}" />
+	<meta name="twitter:site" content="@nitmic_twi" />
+	<meta name="twitter:creator" content="@nitmic_twi" />
+	<meta name="twitter:image" content="{{ $ogImage }}" />
 	{{- end }}
 
 	<!-- Schema -->
