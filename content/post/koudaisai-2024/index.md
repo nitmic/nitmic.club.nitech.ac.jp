@@ -1,7 +1,7 @@
 ---
 title: "NITMic ゲームセンター 2024"
 date: "2024-11-17"
-thumbnail: "thumb.jpg"
+thumbnail: "thumb.webp"
 categories: ["記事"]
 tags: ["NITMic", "2024", "工大祭", "NITMic ゲームセンター", "部誌"]
 authors: ["Name"]
@@ -44,7 +44,7 @@ NITMic では例年、工大祭向けにゲームを作成し、学生企画に�
 <!-- prettier-ignore-start -->
 {{< load-photoswipe>}}
 {{< gallery>}}
-  {{< figure link="banner.jpg" caption="ロールアップバナー" >}}
+  {{< figure link="banner.webp" caption="ロールアップバナー" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 
@@ -54,6 +54,6 @@ NITMic では例年、工大祭向けにゲームを作成し、学生企画に�
 <!-- prettier-ignore-start -->
 {{< load-photoswipe>}}
 {{< gallery>}}
-  {{< figure link="kokuban.jpg" caption="黒板イラスト" >}}
+  {{< figure link="kokuban.webp" caption="黒板イラスト" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->

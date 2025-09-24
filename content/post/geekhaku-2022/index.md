@@ -1,7 +1,7 @@
 ---
 title: "技育博に参加しました"
 date: "2022-06-26"
-thumbnail: "geek-haku0.png"
+thumbnail: "geek-haku0.webp"
 categories: ["記事"]
 description: "技育博 2022"
 tags: ["NITMic", "2022"]
@@ -42,9 +42,9 @@ Twitter などで一方的に認知していた方々とお話できたことや
 <!-- prettier-ignore-start -->
 {{< load-photoswipe>}}
 {{< gallery>}}
-  {{< figure link="geek-haku1.jpg" caption="SHIBUYA" >}}
-  {{< figure link="geek-haku2.jpg" caption="会場からの景色" >}}
-  {{< figure link="geek-haku3.png" caption="部内Scrapboxにある参加記" >}}
+  {{< figure link="geek-haku1.webp" caption="SHIBUYA" >}}
+  {{< figure link="geek-haku2.webp" caption="会場からの景色" >}}
+  {{< figure link="geek-haku3.webp" caption="部内Scrapboxにある参加記" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 

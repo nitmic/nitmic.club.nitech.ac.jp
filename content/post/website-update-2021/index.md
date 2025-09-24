@@ -1,7 +1,7 @@
 ---
 title: "サイトを更新しました 2021"
 description: "サイトを更新しました"
-thumbnail: "image_0.png"
+thumbnail: "image_0.webp"
 date: "2021-04-08"
 categories: ["記事"]
 tags: ["2021", "HUGO", "公式 Web サイト"]
@@ -34,8 +34,8 @@ aliases: "0001"
 自分が知る限りでは、ほぼ毎年公式 Web サイトのデザインが更新されているらしい。
 新入生向けの情報や、作品ページを毎回書き換えるために、サイトを更新するのは若干手間じゃないですかね(´・ω・｀)。記事形式でアーカイブして置ければよいのではという考えで、2021 年度版では記事を残せる仕組みにしてありますが、後輩の方でよいアイディアがある方は遠慮なく教えてくださいな。
 
-{{< figure src="image-1.png" title="昔の公式 Web サイト(2014)" width="350">}}
-{{< figure src="image-2.png" title="昔の公式 Web サイト(2020)" width="350">}}
+{{< figure src="image-1.webp" title="昔の公式 Web サイト(2014)" width="350">}}
+{{< figure src="image-2.webp" title="昔の公式 Web サイト(2020)" width="350">}}
 
 #### 終わりに
 

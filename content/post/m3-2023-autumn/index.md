@@ -1,7 +1,7 @@
 ---
 title: "M3-2023 秋にサークル参加しました"
 date: "2023-10-29"
-thumbnail: "booth_picture_upper.jpg"
+thumbnail: "booth_picture_upper.webp"
 categories: ["記事"]
 tags: ["NITMic", "2023", "コンポーザー", "M3"]
 authors: ["shenzel", "kk", "ジュンセイ", "fjktkm", "Mass", "Thike", "Name"]
@@ -15,8 +15,8 @@ CD は完売してしまいましたが、[こちら](https://soundcloud.com/nit
 
 {{< load-photoswipe>}}
 {{< gallery>}}
-{{< figure link="furan.jpg" caption="ジュンセイ作ジャケット - フランドールスカーレット" >}}
-{{< figure link="suika.jpg" caption="kk作ジャケット - 伊吹萃香" >}}
+{{< figure link="furan.webp" caption="ジュンセイ作ジャケット - フランドールスカーレット" >}}
+{{< figure link="suika.webp" caption="kk作ジャケット - 伊吹萃香" >}}
 {{< /gallery>}}
 
 Ilust - kk, ジュンセイ
