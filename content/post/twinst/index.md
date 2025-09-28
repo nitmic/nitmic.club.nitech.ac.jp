@@ -1,7 +1,7 @@
 ---
 title: "Twinst"
 date: "2021-07-01"
-thumbnail: "Twinst_Title.png"
+thumbnail: "Twinst_Title.webp"
 categories: ["作品紹介"]
 description: "Myaa が 2021 年に制作したゲームの紹介です．"
 tags: ["NITMic", "2021", "ゲーム大賞"]

@@ -4,7 +4,7 @@ description: "NITMicについて"
 date: "2022-02-25"
 #categories: ["Development"]
 #tags: ["2022","HUGO","ホームページ"]
-thumbnail: "koudaisai2022.jpg"
+thumbnail: "koudaisai2022.webp"
 sidebar: "right"
 menu: "main"
 weight: "1"
@@ -35,8 +35,8 @@ PC が数台、Kinect や VR ゴーグルといった機材、漫画や参考書
 <!-- prettier-ignore-start -->
 {{< load-photoswipe >}}
 {{< gallery >}}
-    {{< figure link="busitu_1.jpg" caption="部室画像１" >}}
-    {{< figure link="busitu_2.png" caption="部室画像２" >}}
+    {{< figure link="busitu_1.webp" caption="部室画像１" >}}
+    {{< figure link="busitu_2.webp" caption="部室画像２" >}}
 {{< /gallery >}}
 <!-- prettier-ignore-end -->
 
@@ -58,8 +58,8 @@ PC が数台、Kinect や VR ゴーグルといった機材、漫画や参考書
 <!-- prettier-ignore-start -->
 {{< load-photoswipe >}}
 {{< gallery >}}
-    {{< figure link="seminar_tamaki.png" caption="勉強会資料（tamaki）" >}}
-    {{< figure link="seminar_dokudami.png" caption="勉強会資料（dokudami）" >}}
+    {{< figure link="seminar_tamaki.webp" caption="勉強会資料（tamaki）" >}}
+    {{< figure link="seminar_dokudami.webp" caption="勉強会資料（dokudami）" >}}
 {{< /gallery >}}
 <!-- prettier-ignore-end -->
 
@@ -72,9 +72,9 @@ PC が数台、Kinect や VR ゴーグルといった機材、漫画や参考書
 
 <!-- prettier-ignore-start -->
 {{< gallery >}}
-    {{< figure link="gassyuku.png" caption="合宿の様子" >}}
-    {{< figure link="work_sioazi.png" caption="創作会作品（作：塩味）" >}}
-    {{< figure link="work_taichi.png" caption="創作会作品（作：たいち）" >}}
+    {{< figure link="gassyuku.webp" caption="合宿の様子" >}}
+    {{< figure link="work_sioazi.webp" caption="創作会作品（作：塩味）" >}}
+    {{< figure link="work_taichi.webp" caption="創作会作品（作：たいち）" >}}
 {{< /gallery >}}
 <!-- prettier-ignore-end -->
 

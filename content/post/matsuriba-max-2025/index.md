@@ -1,7 +1,7 @@
 ---
 title: "Matsuriba Max 2025 参加録"
 date: "2025-08-30"
-thumbnail: "20250301_134208.jpg"
+thumbnail: "20250301_134208.webp"
 categories: ["記事"]
 tags: ["NITMic", "2025", "外部イベント", "Matsuriba Tech"]
 authors: ["獺祭"]
@@ -98,7 +98,7 @@ NITMic の活動をアピールできるようなものを用意する必要が�
 
 {{< load-photoswipe>}}
 {{< gallery >}}
-{{< figure link="20250301_134208.jpg" caption="ブースの画像" >}}
+{{< figure link="20250301_134208.webp" caption="ブースの画像" >}}
 {{< /gallery >}}
 
 ロールアップバナーは部屋の中で結構な存在感を放っていたと思います。なんせでかいからね！

@@ -45,8 +45,8 @@ authors:
 
 {{< gallery>}}
 {{< figure link="hatine-anime.gif" caption="鉢音さん" >}}
-{{< figure link="concept-image-1.png" caption="コンセプト1" >}}
-{{< figure link="concept-image-2.png" caption="コンセプト2" >}}
+{{< figure link="concept-image-1.webp" caption="コンセプト1" >}}
+{{< figure link="concept-image-2.webp" caption="コンセプト2" >}}
 {{< /gallery>}}
 
 ## デザイン
@@ -59,9 +59,9 @@ authors:
 いろんな色の世界を滑るので、色は白をベースにハイライトで何色にも染まれるようにしてもらいました。
 
 {{< gallery>}}
-{{< figure link="character-1.png" caption="キャラデザ資料１（kk）" >}}
-{{< figure link="character-2.png" caption="キャラデザ資料２（kk）" >}}
-{{< figure link="character-3.png" caption="キャラデザ資料３（kk）" >}}
+{{< figure link="character-1.webp" caption="キャラデザ資料１（kk）" >}}
+{{< figure link="character-2.webp" caption="キャラデザ資料２（kk）" >}}
+{{< figure link="character-3.webp" caption="キャラデザ資料３（kk）" >}}
 {{< /gallery>}}
 
 ### 3D モデル
@@ -70,18 +70,18 @@ authors:
 少女自身の容姿や髪、服装はもちろんのこと、ゴーグル、マスク、ニット帽、ボードまで作成してもらいました。
 
 {{< gallery>}}
-{{< figure link="character-3d-1.png" caption="キャラクター3Dモデル（塩味）" >}}
-{{< figure link="character-3d-2.png" caption="キャラクター3Dモデル（塩味）" >}}
-{{< figure link="character-3d-3.png" caption="キャラクター3Dモデル（塩味）" >}}
+{{< figure link="character-3d-1.webp" caption="キャラクター3Dモデル（塩味）" >}}
+{{< figure link="character-3d-2.webp" caption="キャラクター3Dモデル（塩味）" >}}
+{{< figure link="character-3d-3.webp" caption="キャラクター3Dモデル（塩味）" >}}
 {{< /gallery>}}
 
 ステージのオブジェクトに関しても作成していただきました。
 T2-ファージのようなオブジェクト、DNA のようなオブジェクト、雪の結晶のようなオブジェクト、崩壊したビルのようなオブジェクトが確認できますね 👀。
 
 {{< gallery>}}
-{{< figure link="image-4.png" caption="ステージ配置オブジェクト（fibrin, 塩味）" >}}
-{{< figure link="image-6.png" caption="ステージ３" >}}
-{{< figure link="image-5.png" caption="ステージ４" >}}
+{{< figure link="image-4.webp" caption="ステージ配置オブジェクト（fibrin, 塩味）" >}}
+{{< figure link="image-6.webp" caption="ステージ３" >}}
+{{< figure link="image-5.webp" caption="ステージ４" >}}
 {{< /gallery>}}
 
 ### UI デザイン

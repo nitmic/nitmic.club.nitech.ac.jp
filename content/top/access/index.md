@@ -4,7 +4,7 @@ description: "NITMicアクセス"
 date: "2022-04-08"
 menu: "main"
 author: "tamaki"
-thumbnail: "googlemap.png"
+thumbnail: "googlemap.webp"
 weight: "3"
 ---
 
@@ -17,17 +17,17 @@ weight: "3"
 <!-- prettier-ignore-start -->
 {{< load-photoswipe >}}
 {{< gallery >}}
-    {{< figure link="map.png" caption="地図">}}
-    {{< figure link="googlemap.png" caption="航空写真">}}
+    {{< figure link="map.webp" caption="地図">}}
+    {{< figure link="googlemap.webp" caption="航空写真">}}
 {{< /gallery >}}
 <!-- prettier-ignore-end -->
 
 #### 写真
 
 {{< gallery >}}
-{{< figure link="bushitsu1.png" caption="部室写真１">}}
-{{< figure link="bushitsu2.png" caption="部室写真２">}}
-{{< figure link="nuigurumi.png" caption="部室に並ぶぬいぐるみ">}}
+{{< figure link="bushitsu1.webp" caption="部室写真１">}}
+{{< figure link="bushitsu2.webp" caption="部室写真２">}}
+{{< figure link="nuigurumi.webp" caption="部室に並ぶぬいぐるみ">}}
 {{< /gallery >}}
 
 名古屋工業大学の北西に位置する 55 号館（課外活動棟）4 階に部室を置かせてもらっております。
