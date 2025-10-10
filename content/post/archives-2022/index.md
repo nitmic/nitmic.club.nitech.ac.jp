@@ -70,4 +70,3 @@ authors: ["fjktkm"]
 ご興味がございましたら、無料ですのでぜひご覧ください。
 
 > [NITMic Archives 2022 (pdf) - NITMic - BOOTH](https://nitmic.booth.pm/items/4322058)
-
