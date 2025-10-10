@@ -69,6 +69,5 @@ authors: ["fjktkm"]
 部誌の内容は BOOTH にて PDF で公開しています。
 ご興味がございましたら、無料ですのでぜひご覧ください。
 
-> [NITMic Archives 2022 (pdf) - NITMic - BOOTH](https://nitmic.booth.pm/items/5259998)
+> [NITMic Archives 2022 (pdf) - NITMic - BOOTH](https://nitmic.booth.pm/items/4322058)
 
-{{< tweet user="nitmic_twi" id="1725682509672010202" >}}
