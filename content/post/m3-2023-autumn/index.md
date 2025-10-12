@@ -25,27 +25,17 @@ Design - fjktkm
 
 Artist - Mass, Thike, chq, shenzel
 
-### 《トラックリスト》
+## トラックリスト
 
-**01 Roullet Rev.I - Mass**
+{{< youtube 21N0fs4TAfE >}}
 
-Original: 逆転するホイールオブフォーチュン
-
-**02 Immortal Retrogression - Thike**
-
-Original: 月まで届け，不死の煙
-
-**03 此方 ～ This Lotus Land - chq**
-
-Original: Romantic Children, アリスマエステラ, 紅楼　～ Eastern Dream…
-
-**04 Still unbroken - Thike**
-
-Original: 砕月
-
-**05 IF's Liberation - shenzel**
-
-Original: U.N.オーエンは彼女なのか, ルーネイトエルフ
+| No. | Title                   | Artist  | Original                                                     |
+| --: | :---------------------- | :------ | :----------------------------------------------------------- |
+|  01 | Roullet Rev.I           | Mass    | 逆転するホイールオブフォーチュン                             |
+|  02 | Immortal Retrogression  | Thike   | 月まで届け，不死の煙                                         |
+|  03 | 此方 ～ This Lotus Land | chq     | Romantic Children, アリスマエステラ, 紅楼　～ Eastern Dream… |
+|  04 | Still unbroken          | Thike   | 砕月                                                         |
+|  05 | IF's Liberation         | shenzel | U.N.オーエンは彼女なのか, ルーネイトエルフ                   |
 
 ## 設営・頒布の様子
 
