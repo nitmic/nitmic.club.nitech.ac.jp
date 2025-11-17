@@ -4,7 +4,7 @@ date: "2023-12-15"
 thumbnail: "ball2.webp"
 categories: ["記事"]
 tags: ["NITMic", "2024", "ドッジボール", "C0de"]
-authors: ["dokudami", "name", "Shiwasu"]
+authors: ["dokudami", "Name", "Shiwasu"]
 aliases: "0015"
 ---
 

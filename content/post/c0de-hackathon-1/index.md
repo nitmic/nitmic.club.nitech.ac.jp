@@ -11,7 +11,7 @@ authors:
     "fjktkm",
     "karanasi",
     "獺祭",
-    "name",
+    "Name",
     "Seirios",
     "ひいす",
   ]
