@@ -1,7 +1,7 @@
 ---
 title: "部誌 Archives 2025"
 date: "2025-11-16"
-thumbnail: "Twitter_1.png"
+thumbnail: "Twitter_1.webp"
 categories: ["作品紹介"]
 description: "NITMic の部誌 Archives 2025 を発行しました！"
 tags: ["NITMic", "2025", "工大祭", "部誌"]
@@ -15,8 +15,8 @@ authors: ["Name", "Orange", "とろみ"]
 今年の部誌は、アートワーク、企画紹介、記事の 3 つのセクションと、特集記事として名工大の松尾啓志教授のインタビュー、その他ミニコーナーたち、本文 70 ページの大ボリュームで構成されています。また、企画や記事ページなどに SD イラストが載せられています。
 
 {{< gallery>}}
-{{< figure link="Twitter_1.png" caption="表紙">}}
-{{< figure link="Twitter_2.png" caption="宣伝用画像">}}
+{{< figure link="Twitter_1.webp" caption="表紙">}}
+{{< figure link="Twitter_2.webp" caption="宣伝用画像">}}
 {{< /gallery >}}
 
 ### アートワーク
