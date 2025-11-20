@@ -7,6 +7,7 @@ description: "NITMic の部誌 Archives 2025 を発行しました！"
 tags: ["NITMic", "2025", "工大祭", "部誌"]
 authors: ["Name", "Orange", "とろみ"]
 ---
+{{< load-photoswipe >}}
 
 2025 年 11 月 15 日（土）、 16 日（日）の 2 日間行われた工大祭において，名古屋工業大学コンピュータ倶楽部誌 Archives 2025 を頒布しました。
 
@@ -14,7 +15,6 @@ authors: ["Name", "Orange", "とろみ"]
 
 今年の部誌は、アートワーク、企画紹介、記事の 3 つのセクションと、特集記事として名工大の松尾啓志教授のインタビュー、その他ミニコーナーたち、本文 70 ページの大ボリュームで構成されています。また、企画や記事ページなどに SD イラストが載せられています。
 
-{{< load-photoswipe >}}
 {{< gallery>}}
 {{< figure link="Twitter_1.webp" caption="表紙">}}
 {{< figure link="Twitter_2.webp" caption="宣伝用画像">}}
