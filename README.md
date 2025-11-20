@@ -33,7 +33,7 @@ $ git clone git@github.com:nitmic/nitmic.club.nitech.ac.jp.git
 
 基本的にはMarkdown記法による執筆が望ましいです。Dev Containerを使うとさらに便利になります。もちろん他の方法で用意してホームページ担当者にデータを投げてもよいです。
 
-現在は、issue を立てて PR の merge によって issue を閉じる、という流れで記事を追加しています。また、メタ情報や画像の記述など、純 Markdown ではない記法に関してもWikiに記述があります。このあたりの情報が[【記事の書き方】MarkdownとGitでラクに](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki/%E8%A8%98%E4%BA%8B%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9_md%E3%81%A8Git%E3%81%A7%E3%83%A9%E3%82%AF%E3%81%AB) にあるので、必ず読んでください。
+現在は、issue を立てて PR の merge によって issue を閉じる、という流れで記事を追加しています。また、メタ情報や画像の記述など、純 Markdown ではない記法に関してもWikiに記述があります。このあたりの情報が[【記事の書き方】MarkdownとGitでラクに](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki/記事の書き方_mdとGitでラクに#記事データの作成方法) にあるので、必ず読んでください。
 
 画像はwebp形式を推奨しています。[Squoosh](https://squoosh.app/) 等で変換してください。
 
