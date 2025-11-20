@@ -31,7 +31,9 @@ $ git clone git@github.com:nitmic/nitmic.club.nitech.ac.jp.git
 ### 記事の追加方法
 [Wiki](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki) にある【記事の書き方】のとおりに、記事本文と画像を用意します。
 
-基本的にはMarkdown記法による執筆が望ましいです。Dev Containerを使うとさらに便利になります。もちろん他の方法で用意してホームページ担当者にデータを投げてもよいです。
+基本的にはMarkdown記法による執筆が望ましいです。VSCodeのDev Container拡張機能を使うと、記事の見た目のプレビューをしながら執筆できます。
+
+もちろん他の方法でコンテンツを用意してホームページ担当者にデータを投げてもよいです。
 
 現在は、issue を立てて PR の merge によって issue を閉じる、という流れで記事を追加しています。また、メタ情報や画像の記述など、純 Markdown ではない記法に関してもWikiに記述があります。このあたりの情報が[【記事の書き方】MarkdownとGitでラクに](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki/記事の書き方_mdとGitでラクに#記事データの作成方法) にあるので、必ず読んでください。
 
