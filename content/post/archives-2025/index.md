@@ -14,6 +14,7 @@ authors: ["Name", "Orange", "とろみ"]
 
 今年の部誌は、アートワーク、企画紹介、記事の 3 つのセクションと、特集記事として名工大の松尾啓志教授のインタビュー、その他ミニコーナーたち、本文 70 ページの大ボリュームで構成されています。また、企画や記事ページなどに SD イラストが載せられています。
 
+{{< load-photoswipe >}}
 {{< gallery>}}
 {{< figure link="Twitter_1.webp" caption="表紙">}}
 {{< figure link="Twitter_2.webp" caption="宣伝用画像">}}
