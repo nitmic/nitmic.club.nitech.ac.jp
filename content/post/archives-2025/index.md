@@ -7,6 +7,7 @@ description: "NITMic の部誌 Archives 2025 を発行しました！"
 tags: ["NITMic", "2025", "工大祭", "部誌"]
 authors: ["Name", "Orange", "とろみ"]
 ---
+{{< load-photoswipe >}}
 
 2025 年 11 月 15 日（土）、 16 日（日）の 2 日間行われた工大祭において，名古屋工業大学コンピュータ倶楽部誌 Archives 2025 を頒布しました。
 
