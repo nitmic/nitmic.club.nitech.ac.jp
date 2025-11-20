@@ -16,6 +16,8 @@ URL：http://nitmic.club.nitech.ac.jp/
 
 ## Usage
 
+詳細な使い方は[Wiki](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki)を参照してください。
+
 ### このリポジトリをローカルに clone する
 
 下記のコマンドを実行することでこのリポジトリをローカルに clone することができます：
@@ -24,57 +26,16 @@ URL：http://nitmic.club.nitech.ac.jp/
 $ git clone git@github.com:nitmic/nitmic.club.nitech.ac.jp.git
 ```
 
-### Dev Container で開く
+または GitHub Desktop や Visual Studio Code の機能を利用してください。
 
-本リポジトリでは、[Visual Studio Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) を用いた開発環境の構築を推奨しています。
-Dev Containers を利用することで、Hugo や Go ランタイムなどの必要なツールを自動でセットアップでき、すべての開発者が一貫した環境で作業を行うことが可能になります。
+### 記事の追加方法
+[Wiki](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki) にある【記事の書き方】のとおりに、記事本文と画像を用意します。
 
-VS Code に [Dev Containers 拡張機能](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) をインストールした状態でリポジトリを開くと、「Reopen in Container（コンテナで再オープン）」という通知が表示されます。
-このボタンをクリックすることで、Dev Containers 環境が起動し、すぐに開発を始めることができます。
+基本的にはMarkdown記法による執筆が望ましいです。Dev Containerを使うとさらに便利になります。もちろん他の方法で用意してホームページ担当者にデータを投げてもよいです。
 
-通知が表示されない場合は、コマンドパレット（`F1` または `Ctrl+Shift+P`）を開き、「Dev Containers: Reopen in Container」を選択してください。
+現在は、issue を立てて PR の merge によって issue を閉じる、という流れで記事を追加しています。また、メタ情報や画像の記述など、純 Markdown ではない記法に関してもWikiに記述があります。このあたりの情報が[【記事の書き方】MarkdownとGitでラクに](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki/%E8%A8%98%E4%BA%8B%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9_md%E3%81%A8Git%E3%81%A7%E3%83%A9%E3%82%AF%E3%81%AB) にあるので、必ず読んでください。
 
-### ローカルでプレビューする
-
-以下のコマンドを実行すると、Hugo によるローカルサーバーが立ち上がり、サイトのプレビューを確認できます：
-
-```
-$ hugo server
-```
-
-実行後、以下のようなログが表示されます：
-
-```
-vscode ➜ /workspaces/nitmic.club.nitech.ac.jp (main) $ hugo server
-
-hugo: collected modules in 1239 ms
-Watching for changes in /workspaces/nitmic.club.nitech.ac.jp/{archetypes,assets,content,data,layouts,static}
-Watching for config changes in /workspaces/nitmic.club.nitech.ac.jp/config.toml
-Start building sites …
-hugo v0.115.4-dc9524521270f81d1c038ebbb200f0cfa3427cc5 linux/amd64 BuildDate=2023-07-20T06:49:57Z VendorInfo=gohugoio
-
-
-                   | EN
--------------------+------
-  Pages            | 163
-  Paginator pages  |   9
-  Non-page files   |   0
-  Static files     | 206
-  Processed images |   0
-  Aliases          |  66
-  Sitemaps         |   1
-  Cleaned          |   0
-
-Built in 5244 ms
-Environment: "development"
-Serving pages from memory
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
-```
-
-お使いのブラウザで http://localhost:1313/ にアクセスすると、ローカル環境でサイトのプレビューが表示されます。
-編集内容は保存するたびに自動で反映されるため、リアルタイムに確認しながら作業が可能です。
+画像はwebp形式を推奨しています。[Squoosh](https://squoosh.app/) 等で変換してください。
 
 ## Deploy
 
