@@ -16,7 +16,7 @@ URL：http://nitmic.club.nitech.ac.jp/
 
 ## Usage
 
-詳細な使い方は[Wiki](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki)を参照してください。
+詳細な使い方は[このリポジトリのWiki](https://github.com/nitmic/nitmic.club.nitech.ac.jp/wiki)を参照してください。
 
 ### このリポジトリをローカルに clone する
 
