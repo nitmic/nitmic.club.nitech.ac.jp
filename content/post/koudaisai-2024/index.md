@@ -7,7 +7,7 @@ tags: ["NITMic", "2024", "工大祭", "NITMic ゲームセンター", "部誌"]
 authors: ["Name"]
 aliases: "0023"
 ---
-
+{{< load-photoswipe >}}
 2024 年 11 月 16 日 (土) 、11 月 17 日 (日) の 2 日間行われた大学祭にて、名古屋工業大学コンピュータ倶楽部 NITMic ゲームセンターとして企画展示を行いました。
 
 ## 展示内容
@@ -42,7 +42,6 @@ NITMic では例年、工大祭向けにゲームを作成し、学生企画に�
 会場の様子です。部室から運ばれた PC にて各種ゲームをプレイして頂きました。
 また、今年制作したロールアップバナーもゲームセンター内に設置しました。
 <!-- prettier-ignore-start -->
-{{< load-photoswipe>}}
 {{< gallery>}}
   {{< figure link="banner.webp" caption="ロールアップバナー" >}}
 {{< /gallery>}}
@@ -52,7 +51,6 @@ NITMic では例年、工大祭向けにゲームを作成し、学生企画に�
 
 ご来場いただいた皆様ありがとうございました。
 <!-- prettier-ignore-start -->
-{{< load-photoswipe>}}
 {{< gallery>}}
   {{< figure link="kokuban.webp" caption="黒板イラスト" >}}
 {{< /gallery>}}
