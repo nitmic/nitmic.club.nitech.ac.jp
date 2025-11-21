@@ -4,7 +4,7 @@ description: "NITMicについて"
 date: "2022-02-25"
 #categories: ["Development"]
 #tags: ["2022","HUGO","ホームページ"]
-thumbnail: "koudaisai2022.jpg"
+thumbnail: "koudaisai2022.webp"
 sidebar: "right"
 menu: "main"
 weight: "1"
@@ -25,20 +25,18 @@ NITMic はゲーム制作を始めとするデジタル創作活動を行うサ�
 
 週 1 回の部会が毎週水曜日昼に行われます。
 
-コロナ自粛期間に伴い、現在の活動場所は`Slack`、`Discord`、`Scrapbox`といったオンラインサービス上です。部会は`Discord`で行われています。
+現在は`Discord`、`Consense`、`GitHub`といったサービスを活用し、主にオンラインで活動しています。部会は部室内で対面で行っていますが、必ずしも参加する必要はありません。
 
 部会以外の活動時間は、各チームのコアタイム（進捗報告会）や講座、勉強会などがあります。
 
 NITMic の部室は、名古屋工業大学の部室棟（55 号館）4 階右手右側にあります。
 PC が数台、Kinect や VR ゴーグルといった機材、漫画や参考書、その他いろいろあります。
 
-> メモ：現在は部会で部室は用いていませんが、部員であれば入ることが可能です。
-
 <!-- prettier-ignore-start -->
 {{< load-photoswipe >}}
 {{< gallery >}}
-    {{< figure link="busitu_1.jpg" caption="部室画像１" >}}
-    {{< figure link="busitu_2.png" caption="部室画像２" >}}
+    {{< figure link="busitu_1.webp" caption="部室画像１" >}}
+    {{< figure link="busitu_2.webp" caption="部室画像２" >}}
 {{< /gallery >}}
 <!-- prettier-ignore-end -->
 
@@ -60,8 +58,8 @@ PC が数台、Kinect や VR ゴーグルといった機材、漫画や参考書
 <!-- prettier-ignore-start -->
 {{< load-photoswipe >}}
 {{< gallery >}}
-    {{< figure link="seminar_tamaki.png" caption="勉強会資料（tamaki）" >}}
-    {{< figure link="seminar_dokudami.png" caption="勉強会資料（dokudami）" >}}
+    {{< figure link="seminar_tamaki.webp" caption="勉強会資料（tamaki）" >}}
+    {{< figure link="seminar_dokudami.webp" caption="勉強会資料（dokudami）" >}}
 {{< /gallery >}}
 <!-- prettier-ignore-end -->
 
@@ -74,9 +72,9 @@ PC が数台、Kinect や VR ゴーグルといった機材、漫画や参考書
 
 <!-- prettier-ignore-start -->
 {{< gallery >}}
-    {{< figure link="gassyuku.png" caption="合宿の様子" >}}
-    {{< figure link="work_sioazi.png" caption="創作会作品（作：塩味）" >}}
-    {{< figure link="work_taichi.png" caption="創作会作品（作：たいち）" >}}
+    {{< figure link="gassyuku.webp" caption="合宿の様子" >}}
+    {{< figure link="work_sioazi.webp" caption="創作会作品（作：塩味）" >}}
+    {{< figure link="work_taichi.webp" caption="創作会作品（作：たいち）" >}}
 {{< /gallery >}}
 <!-- prettier-ignore-end -->
 
@@ -84,15 +82,15 @@ PC が数台、Kinect や VR ゴーグルといった機材、漫画や参考書
 
 ##### 👾 プログラマ
 
-ゲームエンジンを利用して、ゲーム中の様々な処理を実装します。また、デザイナーやコンポーザーが作成した素材を実際にゲームのなかに組み込んでいくのも仕事です。部内で主に使用しているツールとしては、`Unity(C#)`、`Siv3D(C++)`があります。プログラマとして入部する人のほとんどはプログラミング未経験でしたが、今では皆立派にゲームを作っています。プログラミング技術の向上やゲーム製作に役立つ Tips の共有を目的とした講座や勉強会を不定期に催しています。
+ゲームエンジンを利用して、ゲーム中の様々な処理を実装します。また、デザイナーやコンポーザーが作成した素材を実際にゲームのなかに組み込んでいくのも仕事です。部内で主に使用しているツールとしては、`Unity(C#)`、`Unreal Engine`があります。プログラマとして入部する人のほとんどはプログラミング未経験でしたが、今では皆立派にゲームを作っています。プログラミング技術の向上やゲーム製作に役立つ Tips の共有を目的とした講座や勉強会を不定期に催しています。
 
 ##### 🎨2D デザイナー
 
-UI デザインや、ゲームに使用する素材(キャラクター、背景 など…)のうち、`2Dグラフィックス`や`2Dドットイラスト`の作成を担当しています。企画者の要望や意見を反映しつつ、そのゲームの世界観・雰囲気に合うようデザインし、ゲームに彩りを与えていきます。部内で使用されているソフトは無料ソフトでは EDGE 、 GIMP、MediBang Paint Pro、FireAlpaca など、有料ソフトではペイントツール SAI、CLIP STUDIO PAINT などです。
+UI デザインや、ゲームに使用する素材（キャラクター、背景 など…）のうち、`2Dグラフィックス`や`2Dドットイラスト`の作成を担当しています。企画者の要望や意見を反映しつつ、そのゲームの世界観・雰囲気に合うようデザインし、ゲームに彩りを与えていきます。部内で使用されているソフトは無料ソフトでは EDGE 、 GIMP、MediBang Paint Pro、FireAlpaca など、有料ソフトではペイントツール SAI、CLIP STUDIO PAINT などです。
 
 ##### 🎨3D デザイナー
 
-3D ゲームや VR ゲームにおいて作品のテイストに関わる部分を担当する役職です。私たちは作品のテーマに沿って資料収集をし、マップ、アイテム、キャラクターのデザインを詰めて 3D ソフトで作成していきます。 作品の舞台や魅力的なキャラクターを作ることができ、何より自分の作ったものがありありと見えるのでやりがいのある役職です。 また、3D ソフト勉強会を開催しており、技術とクオリティの向上を目指しています。部内では主に`blender`を使用しています。
+3D ゲームや VR ゲームにおいて作品のテイストに関わる部分を担当する役職です。私たちは作品のテーマに沿って資料収集をし、マップ、アイテム、キャラクターのデザインを詰めて 3D ソフトで作成していきます。 作品の舞台や魅力的なキャラクターを作ることができ、何より自分の作ったものがありありと見えるのでやりがいのある役職です。 また、3D ソフト勉強会を開催しており、技術とクオリティの向上を目指しています。部内では主に`Blender`を使用しています。
 
 ##### 🎹 コンポーザー
 

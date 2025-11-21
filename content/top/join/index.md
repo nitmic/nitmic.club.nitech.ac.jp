@@ -1,7 +1,7 @@
 ---
 title: "入部方法"
 description: "Hugo, the world’s fastest framework for building websites"
-date: "2021-04-08"
+date: "2025-05-03"
 menu: "main"
 author: "dokudami"
 weight: "2"
@@ -9,7 +9,7 @@ weight: "2"
 
 NITMic に興味を持っていただきありがとうございます。
 
-本年度は、オンライン入部というかたちをとっております。
+入部は、Google フォームから受け付けております。
 
 > [➡NITMic 入部 Google フォーム](https://forms.gle/rTbMbkDtf9iy91vr5)
 

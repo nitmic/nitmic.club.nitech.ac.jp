@@ -1,7 +1,7 @@
 ---
 title: "M3-2023 秋にサークル参加しました"
 date: "2023-10-29"
-thumbnail: "booth_picture_upper.jpg"
+thumbnail: "booth_picture_upper.webp"
 categories: ["記事"]
 tags: ["NITMic", "2023", "コンポーザー", "M3"]
 authors: ["shenzel", "kk", "ジュンセイ", "fjktkm", "Mass", "Thike", "Name"]
@@ -15,37 +15,27 @@ CD は完売してしまいましたが、[こちら](https://soundcloud.com/nit
 
 {{< load-photoswipe>}}
 {{< gallery>}}
-{{< figure link="furan.jpg" caption="ジュンセイ作ジャケット - フランドールスカーレット" >}}
-{{< figure link="suika.jpg" caption="kk作ジャケット - 伊吹萃香" >}}
+{{< figure link="furan.webp" caption="ジュンセイ作ジャケット - フランドールスカーレット" >}}
+{{< figure link="suika.webp" caption="kk作ジャケット - 伊吹萃香" >}}
 {{< /gallery>}}
 
 Ilust - kk, ジュンセイ
 
-Design - 未底
+Design - fjktkm
 
 Artist - Mass, Thike, chq, shenzel
 
-### 《トラックリスト》
+## トラックリスト
 
-**01 Roullet Rev.I - Mass**
+{{< youtube 21N0fs4TAfE >}}
 
-Original: 逆転するホイールオブフォーチュン
-
-**02 Immortal Retrogression - Thike**
-
-Original: 月まで届け，不死の煙
-
-**03 此方 ～ This Lotus Land - chq**
-
-Original: Romantic Children, アリスマエステラ, 紅楼　～ Eastern Dream…
-
-**04 Still unbroken - Thike**
-
-Original: 砕月
-
-**05 IF's Liberation - shenzel**
-
-Original: U.N.オーエンは彼女なのか, ルーネイトエルフ
+| No. | Title                   | Artist  | Original                                                     |
+| --: | :---------------------- | :------ | :----------------------------------------------------------- |
+|  01 | Roullet Rev.I           | Mass    | 逆転するホイールオブフォーチュン                             |
+|  02 | Immortal Retrogression  | Thike   | 月まで届け，不死の煙                                         |
+|  03 | 此方 ～ This Lotus Land | chq     | Romantic Children, アリスマエステラ, 紅楼　～ Eastern Dream… |
+|  04 | Still unbroken          | Thike   | 砕月                                                         |
+|  05 | IF's Liberation         | shenzel | U.N.オーエンは彼女なのか, ルーネイトエルフ                   |
 
 ## 設営・頒布の様子
 

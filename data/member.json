@@ -1,392 +1,116 @@
 [
   {
-    "Year": 2025,
-    "Members": [
-      {
-        "Name": "NEgiMOchi",
-        "visible": true
-      },
-      {
-        "Name": "かめ",
-        "visible": true
-      },
-      {
-        "Name": "Butterfly",
-        "visible": true
-      },
-      {
-        "Name": "独房",
-        "visible": true
-      },
-      {
-        "Name": "りゅう",
-        "visible": true
-      },
-      {
-        "Name": "ペンタゴン",
-        "visible": true
-      },
-      {
-        "Name": "るんるん",
-        "visible": true
-      },
-      {
-        "Name": "ひむひむ",
-        "visible": true
-      },
-      {
-        "Name": "PenGuin",
-        "visible": true
-      },
-      {
-        "Name": "TomRek",
-        "visible": true
-      },
-      {
-        "Name": "とろみ",
-        "visible": true
-      },
-      {
-        "Name": "teru",
-        "visible": true
-      },
-      {
-        "Name": "saella",
-        "visible": true
-      },
-      {
-        "Name": "東海",
-        "visible": true
-      },
-      {
-        "Name": "はと",
-        "visible": true
-      },
-      {
-        "Name": "あずまち",
-        "visible": true
-      },
-      {
-        "Name": "めど",
-        "visible": true
-      },
-      {
-        "Name": "まさお",
-        "visible": true
-      },
-      {
-        "Name": "まる",
-        "visible": true
-      },
-      {
-        "Name": "バラン",
-        "visible": true
-      },
-      {
-        "Name": "SEEGWAY",
-        "visible": true
-      },
-      {
-        "Name": "なっしー",
-        "visible": true
-      },
-      {
-        "Name": "Rs",
-        "visible": true
-      },
-      {
-        "Name": "ひむひむ",
-        "visible": true
-      },
-      {
-        "Name": "いおりん",
-        "visible": true
-      },
-      {
-        "Name": "ぺしら",
-        "visible": true
-      },
-      {
-        "Name": "Yuki",
-        "visible": true
-      },
-      {
-        "Name": "メンマ",
-        "visible": true
-      },
-      {
-        "Name": "きなこ",
-        "visible": true
-      },
-      {
-        "Name": "ramu",
-        "visible": true
-      },
-      {
-        "Name": "Okyuu",
-        "visible": true
-      },
-      {
-        "Name": "湊都",
-        "visible": true
-      },
-      {
-        "Name": "mitsuki",
-        "visible": true
-      },
-      {
-        "Name": "パーシー",
-        "visible": true
-      },
-      {
-        "Name": "やままる",
-        "visible": true
-      },
-      {
-        "Name": "するめ",
-        "visible": true
-      },
-      {
-        "Name": "たかい",
-        "visible": true
-      },
-      {
-        "Name": "あんぱん",
-        "visible": true
-      },
-      {
-        "Name": "keto",
-        "visible": true
-      },
-      {
-        "Name": "イカフライ",
-        "visible": true
-      },
-      {
-        "Name": "Xeon",
-        "visible": true
-      }
-    ]
-  },
-  {
-    "Year": 2024,
-    "Members": [
-      {
-        "Name": "krkrt",
-        "visible": true
-      },
-      {
-        "Name": "猫月",
-        "visible": true
-      },
-      {
-        "Name": "ごみっきぃ",
-        "visible": true
-      },
-      {
-        "Name": "ツチトハ",
-        "visible": true
-      },
-      {
-        "Name": "くじら",
-        "visible": true
-      },
-      {
-        "Name": "さみおす",
-        "visible": true
-      },
-      {
-        "Name": "ゆず庵",
-        "visible": true
-      },
-      {
-        "Name": "きゅうり",
-        "visible": true
-      },
-      {
-        "Name": "ねぎ塩",
-        "visible": true
-      },
-      {
-        "Name": "Back",
-        "visible": true
-      },
-      {
-        "Name": "あかつき",
-        "visible": true
-      },
-      {
-        "Name": "kou",
-        "visible": true
-      },
-      {
-        "Name": "Δ∇",
-        "visible": true
-      },
-      {
-        "Name": "kazookey",
-        "visible": true
-      },
-      {
-        "Name": "seiya",
-        "visible": true
-      },
-      {
-        "Name": "Deutschland",
-        "visible": true
-      },
-      {
-        "Name": "タベ",
-        "visible": true
-      },
-      {
-        "Name": "げん",
-        "visible": true
-      },
-      {
-        "Name": "Orange",
-        "visible": true
-      }
-    ]
-  },
-  {
     "Year": 2023,
     "Members": [
       {
-        "Name": "さいわ",
-        "Icon": "/images/members_icon/2023/さいわ.png",
-        "visible": true
+        "Name":"さいわ",
+        "Icon":"/images/members_icon/2023/さいわ.webp"
       },
       {
-        "Name": "柚子",
-        "Icon": "/images/members_icon/2023/柚子.png",
-        "visible": true
+        "Name":"柚木",
+        "Icon":"/images/members_icon/2023/柚子.webp"
       },
       {
-        "Name": "メメ",
-        "Icon": "/images/members_icon/2023/メメ.png",
-        "visible": false
+        "Name":"メメ",
+        "Icon":"/images/members_icon/2023/メメ.webp"
       },
       {
-        "Name": "nanto",
-        "Icon": "/images/members_icon/2023/nanto.png",
-        "visible": false
+        "Name":"nanto",
+        "Icon":"/images/members_icon/2023/nanto.webp"
       },
       {
-        "Name": "はるさめ",
-        "Icon": "/images/members_icon/2023/はるさめ.png",
-        "visible": true
+        "Name":"はるさめ",
+        "Icon":"/images/members_icon/2023/はるさめ.webp"
       },
       {
-        "Name": "SoyMaple",
-        "Icon": "/images/members_icon/2023/SoyMaple.png",
-        "visible": true
+        "Name":"SoyMaple",
+        "Icon":"/images/members_icon/2023/SoyMaple.webp"
       },
       {
-        "Name": "yamaaaa",
-        "Icon": "/images/members_icon/2023/yamaaaa.png",
-        "visible": false
+        "Name":"yamaaaa",
+        "Icon":"/images/members_icon/2023/yamaaaa.webp"
       },
       {
-        "Name": "ラムのみ",
-        "Icon": "/images/members_icon/2023/ラムのみ.png",
-        "visible": true
+        "Name":"ラムのみ",
+        "Icon":"/images/members_icon/2023/ラムのみ.webp"
       },
       {
-        "Name": "アサヒ",
-        "Icon": "/images/members_icon/2023/アサヒ.png",
-        "visible": false
+        "Name":"アサヒ",
+        "Icon":"/images/members_icon/2023/アサヒ.webp"
       },
       {
-        "Name": "Blast",
-        "Icon": "/images/members_icon/2023/Blast.png",
-        "visible": false
+        "Name":"Blast",
+        "Icon":"/images/members_icon/2023/Blast.webp"
       },
       {
-        "Name": "cube",
-        "Icon": "/images/members_icon/2023/cube.png",
-        "visible": false
+        "Name":"cube",
+        "Icon":"/images/members_icon/2023/cube.webp"
       },
       {
-        "Name": "じーぶ",
-        "Icon": "/images/members_icon/2023/じーぶ.png",
-        "visible": true
+        "Name":"じーぶ",
+        "Icon":"/images/members_icon/2023/じーぶ.webp"
       },
       {
-        "Name": "ひいす",
-        "Icon": "/images/members_icon/2023/ひいす.png",
-        "visible": true
+        "Name":"ひいす",
+        "Icon":"/images/members_icon/2023/ひいす.webp"
       },
       {
-        "Name": "じめんドラゴン",
-        "Icon": "/images/members_icon/2023/じめんドラゴン.png",
-        "visible": false
+        "Name":"じめんドラゴン",
+        "Icon":"/images/members_icon/2023/じめんドラゴン.webp"
       },
       {
-        "Name": "karanasi",
-        "Icon": "/images/members_icon/2023/からなし.png",
-        "visible": true
+        "Name":"karanasi",
+        "Icon":"/images/members_icon/2023/からなし.webp"
       },
       {
-        "Name": "獺祭",
-        "Icon": "/images/members_icon/2023/獺祭.png",
-        "visible": true
+        "Name":"獺祭",
+        "Icon":"/images/members_icon/2023/獺祭.webp"
       },
       {
-        "Name": "わっち",
-        "Icon": "/images/members_icon/2023/わっち.png",
-        "visible": true
+        "Name":"わっち",
+        "Icon":"/images/members_icon/2023/わっち.webp"
       },
       {
-        "Name": "ウナギ",
-        "Icon": "/images/members_icon/2023/ウナギ.png",
-        "visible": true
+        "Name":"ウナギ",
+        "Icon":"/images/members_icon/2023/ウナギ.webp"
       },
       {
-        "Name": "田中くん",
-        "Icon": "/images/members_icon/2023/田中くん.png",
-        "visible": false
+        "Name":"田中くん",
+        "Icon":"/images/members_icon/2023/田中くん.webp"
       },
       {
-        "Name": "ID",
-        "Icon": "/images/members_icon/2023/ID.png",
-        "visible": false
+        "Name":"ID",
+        "Icon":"/images/members_icon/2023/ID.webp"
       },
       {
-        "Name": "ヒ",
-        "visible": false
+        "Name":"ヒ"
       },
       {
-        "Name": "ぞの",
-        "visible": false
+        "Name":"ぞの"
       },
       {
-        "Name": "じんるい",
-        "visible": false
+        "Name":"じんるい"
       },
       {
-        "Name": "Whiellow",
-        "visible": false
+        "Name":"Whiellow"
       },
       {
-        "Name": "ミザ",
-        "visible": false
+        "Name":"ミザ"
       },
       {
-        "Name": "くらぶり",
-        "visible": false
+        "Name":"くらぶり"
       },
       {
-        "Name": "ガフ",
-        "visible": false
+        "Name":"ウナギノキモチ"
       },
       {
-        "Name": "TFJ",
-        "visible": false
+        "Name":"ガフ"
       },
       {
-        "Name": "h_ryo",
-        "visible": true
+        "Name":"TFJ"
+      },
+      {
+        "Name":"豆腐"
       }
     ]
   },
@@ -394,86 +118,66 @@
     "Year": 2022,
     "Members": [
       {
-        "Name": "name",
-        "Icon": "/images/members_icon/2022/name.png",
-        "visible": true
+        "Name":"Name",
+        "Icon":"/images/members_icon/2022/name.webp"
       },
       {
-        "Name": "iiTAi",
-        "Icon": "/images/members_icon/2022/iiTAi.png",
-        "visible": true
+        "Name":"iiTAi",
+        "Icon":"/images/members_icon/2022/iiTAi.webp"
       },
       {
-        "Name": "Shiwasu",
-        "Icon": "/images/members_icon/2022/Shiwasu.png",
-        "visible": false
+        "Name":"Shiwasu",
+        "Icon":"/images/members_icon/2022/Shiwasu.webp"
       },
       {
-        "Name": "Reid",
-        "Icon": "/images/members_icon/2022/Reid.png",
-        "visible": true
+        "Name":"Reid",
+        "Icon":"/images/members_icon/2022/Reid.webp"
       },
       {
-        "Name": "シングチ",
-        "visible": false
+        "Name":"シングチ"
       },
       {
-        "Name": "ショコラ",
-        "Icon": "/images/members_icon/2022/ショコラ.png",
-        "visible": true
+        "Name":"ショコラ",
+        "Icon":"/images/members_icon/2022/ショコラ.webp"
       },
       {
-        "Name": "cacao",
-        "Icon": "/images/members_icon/2022/cacao.png",
-        "visible": true
+        "Name":"cacao",
+        "Icon":"/images/members_icon/2022/cacao.webp"
       },
       {
-        "Name": "Seirios",
-        "Icon": "/images/members_icon/2022/Seirios.png",
-        "visible": true
+        "Name":"Seirios",
+        "Icon":"/images/members_icon/2022/Seirios.webp"
       },
       {
-        "Name": "亀",
-        "visible": false
+        "Name":"亀"
       },
       {
-        "Name": "UmiShijimi",
-        "Icon": "/images/members_icon/2022/UmiShijimi.png",
-        "visible": false
+        "Name":"UmiShijimi",
+        "Icon":"/images/members_icon/2022/UmiShijimi.webp"
       },
       {
-        "Name": "まつ",
-        "Icon": "/images/members_icon/2022/まつ.png",
-        "visible": true
+        "Name":"まつ",
+        "Icon":"/images/members_icon/2022/まつ.webp"
       },
       {
-        "Name": "わたあめ",
-        "Icon": "/images/members_icon/2022/わたあめ.png",
-        "visible": true
+        "Name":"わたあめ",
+        "Icon":"/images/members_icon/2022/わたあめ.webp"
       },
       {
-        "Name": "テト",
-        "Icon": "/images/members_icon/2022/テト.png",
-        "visible": false
+        "Name":"テト",
+        "Icon":"/images/members_icon/2022/テト.webp"
       },
       {
-        "Name": "ペイト",
-        "Icon": "/images/members_icon/2022/ペイト.png",
-        "visible": false
+        "Name":"ペイト",
+        "Icon":"/images/members_icon/2022/ペイト.webp"
       },
       {
-        "Name": "でるたえる",
-        "Icon": "/images/members_icon/2022/でるたえる.png",
-        "visible": false
+        "Name":"でるたえる",
+        "Icon":"/images/members_icon/2022/でるたえる.webp"
       },
       {
-        "Name": "Oru",
-        "Icon": "/images/members_icon/2022/Oru.png",
-        "visible": true
-      },
-      {
-        "Name": "kei",
-        "visible": true
+        "Name":"Oru",
+        "Icon":"/images/members_icon/2022/Oru.webp"
       }
     ]
   },
@@ -481,212 +185,134 @@
     "Year": 2021,
     "Members": [
       {
-        "Name": "MT1",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/MT1.jpg",
-        "visible": false
+        "Name":"MT1",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/MT1.webp"
       },
       {
-        "Name": "がわ",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/がわ.png",
-        "visible": false
+        "Name":"がわ",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/がわ.webp"
       },
       {
-        "Name": "kk",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/kk.jpg",
-        "visible": true
+        "Name":"kk",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/kk.webp"
       },
       {
-        "Name": "S.A.Taz",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/S.A.Taz.png",
-        "visible": false
+        "Name":"S.A.Taz",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/S.A.Taz.webp"
       },
       {
-        "Name": "きひろ",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/きひろ.png",
-        "visible": false
+        "Name":"きひろ",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/きひろ.webp"
       },
       {
-        "Name": "はやし",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/noicon_blue.png",
-        "visible": false
+        "Name":"はやし",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/noicon_blue.webp"
       },
       {
-        "Name": "Taku-san",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/Taku-san.jpg",
-        "visible": false
+        "Name":"Taku-san",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/Taku-san.webp"
       },
       {
-        "Name": "いず",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/いず.png",
-        "visible": false
+        "Name":"いず",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/いず.webp"
       },
       {
-        "Name": "Yujin-K",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/Yujin-k.jpg",
-        "visible": false
+        "Name":"Yujin-K",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/Yujin-k.webp"
       },
       {
-        "Name": "ムク",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/ムク.png",
-        "visible": false
+        "Name":"ムク",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/ムク.webp"
       },
       {
-        "Name": "Artst",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/Artst.png",
-        "visible": false
+        "Name":"Artst",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/Artst.webp"
       },
       {
-        "Name": "shinato",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/shinato.jpg",
-        "visible": false
+        "Name":"shinato",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/shinato.webp"
       },
       {
-        "Name": "きょう",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/きょう.jpg",
-        "visible": false
+        "Name":"きょう",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/きょう.webp"
       },
       {
-        "Name": "かんぺい",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2021/かんぺい.png",
-        "visible": false
+        "Name":"かんぺい",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2021/かんぺい.webp"
       },
       {
-        "Name": "フジソン",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/noicon_green.png",
-        "visible": false
+        "Name":"フジソン",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/noicon_green.webp"
       },
       {
-        "Name": "fjktkm",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2021/fjktkm.png",
-        "visible": true
+        "Name":"fjktkm",
+        "Tags": ["2Dデザイナー"],
+        "Icon":"/images/members_icon/2021/fjktkm.webp"
       },
       {
-        "Name": "塩味",
-        "Tags": [
-          "3Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/noicon_paple.png",
-        "visible": true
+        "Name":"塩味",
+        "Tags": ["3Dデザイナー"],
+        "Icon":"/images/members_icon/noicon_paple.webp"
       },
       {
-        "Name": "ジュンセイ",
-        "Tags": [
-          "3Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2021/ジュンセイ.png",
-        "visible": true
+        "Name":"ジュンセイ",
+        "Tags": ["3Dデザイナー"],
+        "Icon":"/images/members_icon/2021/ジュンセイ.webp"
       },
       {
-        "Name": "乙矢",
-        "Tags": [
-          "3Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2021/乙矢.jpg",
-        "visible": false
+        "Name":"乙矢",
+        "Tags": ["3Dデザイナー"],
+        "Icon":"/images/members_icon/2021/乙矢.webp"
       },
       {
-        "Name": "ニマーン",
-        "Tags": [
-          "3Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2021/ニマーン.jpg",
-        "visible": false
+        "Name":"ニマーン",
+        "Tags": ["3Dデザイナー"],
+        "Icon":"/images/members_icon/2021/ニマーン.webp"
       },
       {
         "Name": "Thike",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Icon": "/images/members_icon/2021/Thike.png",
-        "visible": true
+        "Tags": [ "コンポーザー" ],
+        "Icon":"/images/members_icon/2021/Thike.webp"
       },
       {
-        "Name": "Mass",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Icon": "/images/members_icon/2021/Mass.jpg",
-        "visible": true
+          "Name": "Mass",
+          "Tags": [ "コンポーザー" ],
+          "Icon":"/images/members_icon/2021/Mass.webp"
       },
       {
-        "Name": "セレン",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Icon": "/images/members_icon/2021/セレン.jpg",
-        "visible": false
+          "Name": "セレン",
+          "Tags": [ "コンポーザー" ],
+          "Icon":"/images/members_icon/2021/セレン.webp"
       },
       {
         "Name": "shenzel",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Icon": "/images/members_icon/2021/shenzel.jpg",
-        "visible": true
+        "Tags": [ "コンポーザー" ],
+        "Icon":"/images/members_icon/2021/shenzel.webp"
       },
       {
         "Name": "たくみ",
-        "Tags": [
-          " "
-        ],
-        "Icon": "/images/members_icon/noicon_lightblue.png",
-        "visible": false
+        "Tags": [ " " ],
+        "Icon":"/images/members_icon/noicon_lightblue.webp"
       },
       {
         "Name": "とり",
-        "Tags": [
-          " "
-        ],
-        "Icon": "/images/members_icon/2021/とり.gif",
-        "visible": false
+        "Tags": [ " " ],
+        "Icon":"/images/members_icon/2021/とり.webp"
       }
     ]
   },
@@ -694,136 +320,95 @@
     "Year": 2020,
     "Members": [
       {
-        "Name": "dokudami",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Description": "こんにちは",
-        "Icon": "/images/members_icon/2020/dokudami.png",
-        "Twitter": "https://x.com/dokudamichang",
-        "Homepage": "https://scrapbox.io/dokudamibox/",
-        "Git": "https://github.com/ysdzm",
-        "visible": true
+        "Name":"dokudami",
+        "Tags": ["プログラマ"],
+        "Description":"こんにちは",
+        "Icon":"/images/members_icon/2020/dokudami.webp",
+        "Twitter":"https://x.com/dokudamichang",
+        "Homepage":"https://scrapbox.io/dokudamibox/",
+        "Git":"https://github.com/ysdzm"
       },
       {
-        "Name": "kuru",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/kuru.png",
-        "visible": true
+        "Name":"kuru",
+        "Tags": ["プログラマ"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/kuru.webp"
       },
       {
-        "Name": "りーくん",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/りーくん.png",
-        "visible": false
+        "Name":"りーくん",
+        "Tags": ["プログラマ"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/りーくん.webp"
       },
       {
-        "Name": "Sora513",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/Sora513.jpg",
-        "visible": false
+        "Name":"Sora513",
+        "Tags": ["プログラマ"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/Sora513.webp"
       },
       {
-        "Name": "Yuji",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/noicon_orenze.png",
-        "visible": false
+        "Name":"Yuji",
+        "Tags": ["プログラマ"],
+        "Description":"",
+        "Icon":"/images/members_icon/noicon_orenze.webp"
       },
       {
-        "Name": "たいち",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/たいち.png",
-        "visible": false
+        "Name":"たいち",
+        "Tags": ["2Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/たいち.webp"
       },
       {
-        "Name": "黒豆腐",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/黒豆腐.jpg",
-        "visible": false
+        "Name":"黒豆腐",
+        "Tags": ["2Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/黒豆腐.webp"
       },
       {
-        "Name": "ナス好き",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/ナス好き.png",
-        "visible": false
+        "Name":"ナス好き",
+        "Tags": ["2Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/ナス好き.webp"
       },
       {
-        "Name": "しお",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/しお.png",
-        "visible": false
+        "Name":"しお",
+        "Tags": ["2Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/しお.webp"
       },
       {
-        "Name": "はっしー",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/はっしー.jpg",
-        "visible": false
+        "Name":"はっしー",
+        "Tags": ["2Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/はっしー.webp"
       },
       {
-        "Name": "tamaki",
-        "Tags": [
-          "3Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/tamaki.jpg",
-        "Twitter": "https://x.com/TmgHiro",
-        "Git": "https://github.com/tamaki380",
-        "Homepage": "https://tamaki380.github.io/myhomepage.github.io/index.html",
-        "visible": true
+        "Name":"tamaki",
+        "Tags": ["3Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/tamaki.webp",
+        "Twitter":"https://x.com/TmgHiro",
+        "Git":"https://github.com/tamaki380",
+        "Homepage":"https://tamaki380.github.io/myhomepage.github.io/index.html"
+
       },
       {
-        "Name": "mitsuya",
-        "Tags": [
-          "3Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/mituya.png",
-        "visible": false
+        "Name":"mitsuya",
+        "Tags": ["3Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/mituya.webp"
       },
       {
-        "Name": "sui",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/sui.png",
-        "visible": false
+        "Name":"sui",
+        "Tags": ["コンポーザー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/sui.webp"
       },
       {
-        "Name": "こーせー",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2020/こーせー.png",
-        "visible": false
+        "Name":"こーせー",
+        "Tags": ["コンポーザー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2020/こーせー.webp"
       }
     ]
   },
@@ -831,101 +416,65 @@
     "Year": 2019,
     "Members": [
       {
-        "Name": "アルエット",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2019/アルエット.png",
-        "visible": false
+        "Name":"アルエット",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2019/アルエット.webp"
       },
       {
-        "Name": "Nov",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2019/Nov.png",
-        "visible": false
+        "Name":"Nov",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2019/Nov.webp"
       },
       {
-        "Name": "オガトモ",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2019/おがとも.png",
-        "visible": false
+        "Name":"オガトモ",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2019/おがとも.webp"
       },
       {
-        "Name": "ホソヤ",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2019/ホソヤ.jpg",
-        "visible": false
+        "Name":"ホソヤ",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2019/ホソヤ.webp"
       },
       {
-        "Name": "りお",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/noicon_yellow.png",
-        "visible": false
+        "Name":"りお",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/noicon_yellow.webp"
       },
       {
-        "Name": "スズキ",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2019/スズキ.png",
-        "visible": false
+        "Name":"スズキ",
+        "Tags": ["2Dデザイナー"],
+        "Icon":"/images/members_icon/2019/スズキ.webp"
       },
       {
-        "Name": "深月詠狐",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2019/深月詠狐.jpg",
-        "visible": false
+        "Name":"深月詠狐",
+        "Tags": ["2Dデザイナー"],
+        "Icon":"/images/members_icon/2019/深月詠狐.webp"
       },
       {
-        "Name": "おばこう",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2019/おばこう.png",
-        "visible": false
+        "Name":"おばこう",
+        "Tags": ["2Dデザイナー"],
+        "Icon":"/images/members_icon/2019/おばこう.webp"
       },
       {
-        "Name": "東西南アカリ",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2019/東西南アカリ.jpg",
-        "visible": false
+        "Name":"東西南アカリ",
+        "Tags": ["2Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2019/東西南アカリ.webp"
       },
       {
-        "Name": "fibrin",
-        "Tags": [
-          "3Dデザイナー"
-        ],
-        "Icon": "/images/members_icon/2019/fibrin.jpg",
-        "visible": false
+        "Name":"fibrin",
+        "Tags": ["3Dデザイナー"],
+        "Icon":"/images/members_icon/2019/fibrin.webp"
       },
       {
-        "Name": "真言",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Icon": "/images/members_icon/2019/shingon.png",
-        "visible": false
+        "Name":"真言",
+        "Tags": ["コンポーザー"],
+        "Icon":"/images/members_icon/2019/shingon.webp"
       },
       {
-        "Name": "昆布",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Icon": "/images/members_icon/2019/昆布.png",
-        "visible": false
+        "Name":"昆布",
+        "Tags": ["コンポーザー"],
+        "Icon":"/images/members_icon/2019/昆布.webp"
       }
     ]
   },
@@ -933,80 +482,53 @@
     "Year": 2018,
     "Members": [
       {
-        "Name": "ru",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2018/ru.png",
-        "visible": false
+        "Name":"ru",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2018/ru.webp"
       },
       {
-        "Name": "Myaa",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2018/Myaa.png",
-        "visible": false
+        "Name":"Myaa",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2018/Myaa.webp"
       },
       {
-        "Name": "ntk",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2018/ntk.png",
-        "visible": false
+        "Name":"ntk",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2018/ntk.webp"
       },
       {
-        "Name": "Han",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2018/Han.jpg",
-        "visible": false
+        "Name":"Han",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2018/Han.webp"
       },
       {
-        "Name": "nerune",
-        "Tags": [
-          "プログラマ"
-        ],
-        "Icon": "/images/members_icon/2019/nerune.jpg",
-        "visible": false
+        "Name":"nerune",
+        "Tags": ["プログラマ"],
+        "Icon":"/images/members_icon/2019/nerune.webp"
       },
       {
-        "Name": "kiritannpo",
-        "Tags": [
-          "2Dデザイナー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2018/kiritannpo.png",
-        "visible": false
+        "Name":"kiritannpo",
+        "Tags": ["2Dデザイナー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2018/kiritannpo.webp"
       },
       {
-        "Name": "mono",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2018/mono.png",
-        "visible": false
+        "Name":"mono",
+        "Tags": ["コンポーザー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2018/mono.webp"
       },
       {
-        "Name": "dotsome",
-        "Tags": [
-          "コンポーザー"
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2018/dotsome.png",
-        "visible": false
+        "Name":"dotsome",
+        "Tags": ["コンポーザー"],
+        "Description":"",
+        "Icon":"/images/members_icon/2018/dotsome.webp"
       },
       {
-        "Name": "bokachin",
-        "Tags": [
-          " "
-        ],
-        "Description": "",
-        "Icon": "/images/members_icon/2018/bokachin.png",
-        "visible": false
+        "Name":"bokachin",
+        "Tags": [" "],
+        "Description":"",
+        "Icon":"/images/members_icon/2018/bokachin.webp"
       }
     ]
   }

@@ -1,10 +1,10 @@
 ---
 title: "部誌 Archives 2023"
 date: "2023-11-18"
-thumbnail: "tweet-ad_1.png"
+thumbnail: "tweet-ad_1.webp"
 categories: ["作品紹介"]
 description: "NITMic の部誌 Archives 2023 を発行しました！"
-tags: ["NITMic", "2023", "工大祭", "部誌"]
+tags: ["NITMic", "2023", "工大祭", "部誌", "C0de"]
 authors: ["fjktkm"]
 aliases: "0017"
 ---
@@ -59,9 +59,9 @@ aliases: "0017"
 <!-- prettier-ignore-start -->
 {{< load-photoswipe>}}
 {{< gallery>}}
-  {{< figure link="tweet-ad_2.png" caption="アートワークのサンプル" >}}
-  {{< figure link="tweet-ad_3.png" caption="企画紹介のサンプル" >}}
-  {{< figure link="tweet-ad_4.png" caption="記事のサンプル" >}}
+  {{< figure link="tweet-ad_2.webp" caption="アートワークのサンプル" >}}
+  {{< figure link="tweet-ad_3.webp" caption="企画紹介のサンプル" >}}
+  {{< figure link="tweet-ad_4.webp" caption="記事のサンプル" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 

@@ -1,13 +1,14 @@
 ---
 title: "NITMic 広報用ロールアップバナー"
 date: "2024-11-16"
-thumbnail: "IMG_4789.JPG"
+thumbnail: "IMG_4789.webp"
 categories: ["作品紹介"]
 description: "NITMic の広報用のロールアップバナーを制作しました！"
-tags: ["NITMic", "2024", "工大祭"]
+tags: ["NITMic", "2024", "工大祭", "デザイナー"]
 authors: ["fjktkm", "Oru", "kk"]
 aliases: "0018"
 ---
+{{< load-photoswipe >}}
 
 NITMic の広報用のロールアップバナーを制作し，2024 年 11 月 16 日（土）～ 17 日（日）の 2 日間行われた工大祭において展示しました．
 
@@ -16,9 +17,10 @@ NITMic の広報用のロールアップバナーを制作し，2024 年 11 月 
 幅 850 mm × 高さ 2000 mm のロールアップバナーを制作しました．
 かっこいいイラストでサイズも大きくよく目立ちます．
 
+
 {{< gallery >}}
-{{< figure link="IMG_4789.JPG" caption="ロールアップバナーの画像 1" >}}
-{{< figure link="IMG_4786.JPG" caption="ロールアップバナーの画像 2">}}
+{{< figure link="IMG_4789.webp" caption="ロールアップバナーの画像 1" >}}
+{{< figure link="IMG_4786.webp" caption="ロールアップバナーの画像 2">}}
 {{< /gallery >}}
 
 ### ロールアップバナー制作の背景

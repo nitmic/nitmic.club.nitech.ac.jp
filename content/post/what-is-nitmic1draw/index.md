@@ -1,7 +1,7 @@
 ---
 title: "nitmic1draw とは？"
 description: "nitmic1draw ってなんだろう"
-thumbnail: "image_0.png"
+thumbnail: "image_0.webp"
 date: "2021-04-08"
 categories: ["記事"]
 tags: ["2021", "デザイナー", "イラスト"]
@@ -30,7 +30,7 @@ NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmi
 
 <div class="col">
     <div class="row justify-content-center">
-        {{< figure src="image-1.png" title="説明画像１" class="img-fluid" width="500">}}
+        {{< figure src="image-1.webp" title="説明画像１" class="img-fluid" width="500">}}
     </div>
 </div>
 
@@ -45,7 +45,7 @@ NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmi
 
 <div class="col">
     <div class="row justify-content-center">
-        {{< figure src="image-2.png" title="説明画像２" class="center" width="500" alt="10">}}
+        {{< figure src="image-2.webp" title="説明画像２" class="center" width="500" alt="10">}}
     </div>
 </div>
 

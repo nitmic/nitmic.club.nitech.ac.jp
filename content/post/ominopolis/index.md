@@ -1,7 +1,7 @@
 ---
 title: "Ominopolis"
 date: "2022-06-24"
-thumbnail: "ominopolis0.png"
+thumbnail: "ominopolis0.webp"
 categories: ["作品紹介"]
 description: "Myaa が制作中のゲームの紹介です．"
 tags: ["NITMic", "2022", "ゲーム大賞"]

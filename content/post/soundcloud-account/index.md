@@ -2,7 +2,7 @@
 title: "NITMic の SoundCloud アカウントを作りました！"
 date: "2022-03-18"
 categories: ["記事"]
-thumbnail: "image_0.png"
+thumbnail: "image_0.webp"
 description: "SoundCloud 垢取得"
 tags: ["NITMic", "2022", "コンポーザー"]
 authors: ["Mass", "真言", "こーせー", "shenzel"]
