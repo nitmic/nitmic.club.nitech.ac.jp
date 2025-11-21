@@ -61,7 +61,8 @@
       {
         "Name":"okyuu",
         "Icon":"/images/members_icon/2025/okyuu.webp"
-      },{
+      },
+      {
         "Name":"butterfly",
         "Icon":"/images/members_icon/2025/butterfly.webp"
       },
@@ -106,7 +107,7 @@
         "Name":"Rs"
       },
       {
-        "Name":"ピカるん"
+        "Name":"るんるん"
       },
       {
         "Name":"セグウェイ"
@@ -115,16 +116,13 @@
         "Name":"バラン"
       },
       {
-        "Name":"するめ"
-      },
-      {
         "Name":"やままる"
       },
       {
         "Name":"するめ"
       },
       {
-        "Name":"みなと"
+        "Name":"ミナト"
       },
       {
         "Name":"あんぱん"
@@ -136,7 +134,7 @@
         "Name":"イカフライ"
       },
       {
-        "Name":"Argon"
+        "Name":"Xeon"
       }
     ]
   },
@@ -200,6 +198,10 @@
         "Icon":"/images/members_icon/2024/あかつき.webp"
       },
       {
+        "Name": "Kazookey",
+        "Icon":"/images/members_icon/2024/Kazookey.webp"
+      },
+      {
         "Name":"AKIzNiL",
         "Icon":"/images/members_icon/2024/AKIzNiL.webp"
       },
@@ -207,11 +209,14 @@
         "Name":"Deutschland"
       },
       {
-        "Name":"田部健太郎"
+        "Name":"タベ"
       },
       {
         "Name":"ゲン"
-      }      
+      },
+      {
+        "Name": "seiya"
+      }
     ]
   },
   {
