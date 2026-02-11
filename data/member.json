@@ -773,6 +773,18 @@
         "Description":"",
         "Icon":"/images/members_icon/2020/こーせー.webp",
         "visible": false
+      },
+      {
+        "Name":"あかさわわわ",
+        "Tags": ["プログラマ","2Dデザイナー"],
+        "Description":"",
+        "visible": true
+      },
+      {
+        "Name":"hydriod",
+        "Tags": ["プログラマ"],
+        "Description":"",
+        "visible": true
       }
     ]
   },
