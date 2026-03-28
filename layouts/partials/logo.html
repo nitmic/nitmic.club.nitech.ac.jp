@@ -10,7 +10,7 @@
 		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
 
 			{{ with $logoImage -}}
-				<img src="{{ . | relURL }}" style="height:55px;">
+				<img src="{{ . | relURL }}" style="height:55px;" alt="{{ $.Site.Title }} ロゴ">
             {{- end -}}
 
 		</a>
