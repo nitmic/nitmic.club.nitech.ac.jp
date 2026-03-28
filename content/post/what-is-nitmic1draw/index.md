@@ -11,8 +11,6 @@ menu: "false"
 aliases: "0002"
 ---
 
-{{<load-photoswipe>}}
-
 NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmic1draw&src=hashtag_click&f=live) というワンドロ企画を定期的に行っています。
 
 ### はじめに
