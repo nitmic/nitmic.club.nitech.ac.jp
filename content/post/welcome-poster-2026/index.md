@@ -1,6 +1,6 @@
 ---
 title: "新歓ポスター 2026"
-date: "2026-4-1"
+date: "2026-03-28"
 thumbnail: "2026_orange_poster_twi.webp"
 categories: ["作品紹介"]
 tags: ["2026", "新歓", "デザイナー", "新歓ポスター"]
