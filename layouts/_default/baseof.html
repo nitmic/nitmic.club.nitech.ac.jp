@@ -52,8 +52,8 @@
 
 
 	<!-- customCSSを適用している箇所 , rangeだから複数customCSS登録しても大丈夫そう？ -->
-	{{ $style := resources.Get "/css/custom.css" | resources.ExecuteAsTemplate "/css/custom.css" . -}}
-	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+	{{ $style := resources.Get "/css/custom.css" | resources.ExecuteAsTemplate "/css/custom.css" . | resources.Minify | resources.Fingerprint -}}
+	<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous">
 	{{ range .Site.Params.customCSS -}}
 	<link rel="stylesheet" href="{{ . | relURL }}">
 	{{- end }}
