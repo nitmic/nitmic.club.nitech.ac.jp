@@ -25,6 +25,13 @@
 }
 
 
+/* モバイルでメニューボタンのテキストが右寄りになる問題を修正 */
+@media screen and (max-width: 500px) {
+	.menu__btn-title {
+		text-align: left;
+	}
+}
+
 /* サムネイルサイズ調整 */
 .list__thumbnail img {
     width: 150px;
