@@ -38,7 +38,7 @@ authorbox = false
 pager = true
 post_meta = ["date", "author", "categories"]       # Order of post meta information
 highlightColor = "#ff9305"                         # ハイライトカラーを変更
-customCSS = ["css/style.css"]
+customCSS = []
 ogImageDefault = "logo/padded-logo-vertical_light@0.5x.webp"             #OGPに使用するデフォルト画像
 
 [Params.logo]

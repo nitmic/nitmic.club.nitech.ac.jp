@@ -1529,3 +1529,42 @@ textarea {
 .link-external:hover {
   fill: #3088d4;
 }
+
+/* ---- static/css/style.css より統合 (issue #221) ---- */
+
+/* タイトルロゴで NITMIC -> NITMic となるように */
+.logo__text {
+	text-transform: none;
+	margin-right: auto;
+}
+
+/* カード */
+.member_icon_img {
+	width: 20px;
+	height: 20px;
+}
+
+.author_icon_img {
+	width: 40px;
+	height: 40px;
+}
+
+.member_name {
+	font-weight: 500;
+}
+
+/* サムネイルサイズ調整 */
+.list__thumbnail img {
+	width: 150px;
+	height: 150px;
+	margin-right: 3%;
+	object-fit: cover;
+}
+
+.post__thumbnail img {
+	width: 800px;
+	height: 200px;
+	margin-right: 3%;
+	object-fit: cover;
+	filter: opacity(60%);
+}
