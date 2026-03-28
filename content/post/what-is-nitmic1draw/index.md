@@ -11,6 +11,8 @@ menu: "false"
 aliases: "0002"
 ---
 
+{{<load-photoswipe>}}
+
 NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmic1draw&src=hashtag_click&f=live) というワンドロ企画を定期的に行っています。
 
 ### はじめに
@@ -28,9 +30,7 @@ NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmi
 2. 土曜日夜 7 時～：お題発表＆ワンドロ開始
 3. ～土曜日夜 9 時：ワンドロ終了＆ハッシュタグをつけて投稿
 
-{{<gallery>}}
 {{<figure link="image-1.webp" caption="説明画像１">}}
-{{</gallery>}}
 
 ##### お題について
 
@@ -41,9 +41,7 @@ NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmi
 作品はなんでもかまいません。
 `デジタルイラスト`、`アナログイラスト`、`ドット絵`、`３Dモデル`、`シェーダー`、など
 
-{{<gallery>}}
 {{<figure link="image-2.webp" caption="説明画像２">}}
-{{</gallery>}}
 
 ### おわりに
 
