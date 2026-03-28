@@ -32,6 +32,7 @@ section {
 /* Structure */
 html {
 	font-size: 100%;
+	text-size-adjust: none;
 	-webkit-text-size-adjust: none;
 }
 
@@ -1418,10 +1419,6 @@ textarea {
 
 
 
-
-/* カード一覧 */
-.cards {
-}
 
 /* カード */
 .card {
