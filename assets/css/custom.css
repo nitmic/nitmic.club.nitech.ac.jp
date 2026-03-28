@@ -25,26 +25,13 @@ section {
 	display: block;
 }
 
-:focus::-webkit-input-placeholder {
-	color: transparent;
-}
-
-:focus::-moz-placeholder {
-	color: transparent;
-}
-
-:focus:-moz-placeholder {
-	color: transparent;
-}
-
-:focus:-ms-input-placeholder {
+:focus::placeholder {
 	color: transparent;
 }
 
 /* Structure */
 html {
 	font-size: 100%;
-	-ms-text-size-adjust: none;
 	-webkit-text-size-adjust: none;
 }
 
@@ -79,35 +66,23 @@ body {
 }
 
 .flex {
-	display: -webkit-flex;
 	display: flex;
 }
 
 .primary {
-	-webkit-flex: 1 0 65.83%;
 	flex: 1 0 65.83%;
-	-webkit-order: 1;
 	order: 1;
 	min-width: 0;
 }
 
-/*
-.card{
-	/* background-color: #000;
-}
-*/
-
 .sidebar {
-	-webkit-flex: 1 0 21.66%;		/* 初期値：31.6% */
 	flex: 1 0 21.66%;				/* 初期値：31.6% */
-	-webkit-order: 2;
 	order: 2;
 	min-width: 0;
 	margin: 0 0 0 2.5%;
 }
 
 .sidebar--left {
-	-webkit-order: 0;
 	order: 0;
 	margin: 0 2.5% 0 0;
 }
@@ -603,13 +578,10 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	.menu__list,
 	.js .menu__list {
 		position: relative;
-		display: -webkit-flex;
 		display: flex;
-		-webkit-flex-wrap: wrap;
 		flex-wrap: wrap;
 		visibility: visible;
 		border: 0;
-		-webkit-transform: none;
 		transform: none;
 	}
 
@@ -984,7 +956,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 /* Pager (prev/next links) navigation */
 .pager {
-	-webkit-justify-content: space-between;
 	justify-content: space-between;
 	padding-top: 25px;
 	padding-bottom: 25px;
@@ -1008,7 +979,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .pager__item {
-	-webkit-flex: 1 1 50%;
 	flex: 1 1 50%;
 	max-width: 48%;
 }
@@ -1024,7 +994,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 /* Images / Video */
 img {
-	width: auto\9; /* ie8 */
 	max-width: 100%;
 	height: auto;
 	vertical-align: bottom;
@@ -1237,14 +1206,11 @@ textarea {
 }
 
 .footer__container {
-	-webkit-flex-flow: row wrap;
 	flex-flow: row wrap;
-	-webkit-justify-content: space-between;
 	justify-content: space-between;
 }
 
 .footer__links {
-	-webkit-order: 1;
 	order: 1;
 }
 
@@ -1405,17 +1371,8 @@ textarea {
 	  font-size: 18px;
 	  background: #f7f7f7;
 	  /* Center slide text vertically */
-	  display: -webkit-box;
-	  display: -ms-flexbox;
-	  display: -webkit-flex;
 	  display: flex;
-	  -webkit-box-pack: center;
-	  -ms-flex-pack: center;
-	  -webkit-justify-content: center;
 	  justify-content: center;
-	  -webkit-box-align: center;
-	  -ms-flex-align: center;
-	  -webkit-align-items: center;
 	  align-items: center;
 	}
 
@@ -1464,15 +1421,10 @@ textarea {
 
 /* カード一覧 */
 .cards {
-  /*display: flex;*/
-  /*flex-wrap: wrap;*/
-  /*align-items:flex-start;*/
 }
 
 /* カード */
 .card {
-  /*display: flex;*/
-  /* サムネイル, ドキュメント(名前、タグ、description, SNSアイコンなど)、を縦に並べる */
   flex-direction: column;
 
   flex: 0 0 30%;
