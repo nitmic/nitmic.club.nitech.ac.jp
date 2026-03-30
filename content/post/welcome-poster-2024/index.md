@@ -7,7 +7,7 @@ tags: ["2024", "新歓", "デザイナー", "新歓ポスター"]
 authors: ["Name", "fjktkm", "kk", "獺祭", "わたあめ", "ウナギ"]
 aliases: "0016"
 ---
-
+{{< load-photoswipe >}}
 ## はじめに
 
 はじめまして、2024 年度部長の Name です。
@@ -51,7 +51,7 @@ aliases: "0016"
 
 #### 作 / name、fjktkm
 
-{{< load-photoswipe>}}
+
 {{< gallery >}}
 {{< figure link="bira1.webp" caption="name 作 新歓ビラ 表" >}}
 {{< figure link="bira2.webp" caption="fjktkm 作 新歓ビラ 裏">}}

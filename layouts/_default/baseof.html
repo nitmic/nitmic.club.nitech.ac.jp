@@ -62,6 +62,9 @@
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
 
+	<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon.png" | relURL }}">
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
 	{{- if not .Site.IsServer }}
 		{{- if hasPrefix .Site.GoogleAnalytics "G-" }}

@@ -4,7 +4,7 @@ date: "2022-12-01"
 thumbnail: "koudaisai-2022-1.webp"
 categories: ["記事"]
 description: "NITMic ゲームセンター 2022"
-tags: ["NITMic", "2022", "工大祭", "NITMic ゲームセンター", "部誌"]
+tags: ["NITMic", "2022", "工大祭", "NITMic ゲームセンター"]
 authors: ["dokudami"]
 aliases: "0014"
 ---
