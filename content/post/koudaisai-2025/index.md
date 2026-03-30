@@ -3,10 +3,9 @@ title: "NITMic ゲームセンター 2025"
 date: "2025-11-15"
 thumbnail: "thumb.webp"
 categories: ["記事"]
-tags: ["NITMic", "2025", "工大祭", "NITMic ゲームセンター", "部誌"]
+tags: ["NITMic", "2025", "工大祭", "NITMic ゲームセンター"]
 sidebar: "right"
 authors: ["KOU"]
-menu: "main"
 ---
 
 2025 年 11 月 14 日 (土) 、11 月 15 日 (日) の 2 日間行われた大学祭にて、名古屋工業大学コンピュータ倶楽部 NITMic ゲームセンターとして企画展示を行いました。
@@ -48,7 +47,7 @@ NITMic では例年、工大祭向けにゲームを作成し、学生企画に�
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 
-やっぱり大きいですね。こういうものがあると会場の雰囲気も変わってきます。詳細は当サイトの記事[NITMic 広報用ロールアップバナー](https://nitmic.club.nitech.ac.jp/post/0018/)をご覧ください。
+やっぱり大きいですね。こういうものがあると会場の雰囲気も変わってきます。詳細は当サイトの記事[NITMic 広報用ロールアップバナー](https://nitmic.club.nitech.ac.jp/post/rollup-banner/)をご覧ください。
 
 ご来場いただいた皆様ありがとうございました。
 
