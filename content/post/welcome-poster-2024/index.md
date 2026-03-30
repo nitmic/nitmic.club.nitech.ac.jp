@@ -7,7 +7,9 @@ tags: ["2024", "新歓", "デザイナー", "新歓ポスター"]
 authors: ["Name", "fjktkm", "kk", "獺祭", "わたあめ", "ウナギ"]
 aliases: "0016"
 ---
+
 {{< load-photoswipe >}}
+
 ## はじめに
 
 はじめまして、2024 年度部長の Name です。
@@ -23,8 +25,8 @@ aliases: "0016"
 #### 作 / 獺祭、わたあめ
 
 {{< gallery>}}
-{{< figure link="poster1.webp" caption="獺祭 作 新歓ポスター">}}
-{{< figure link="poster2.webp" caption="わたあめ 作 新歓ポスター">}}
+{{< figure link="poster1.webp" caption="獺祭 作 新歓ポスター" a4="true">}}
+{{< figure link="poster2.webp" caption="わたあめ 作 新歓ポスター" a4="true">}}
 {{< /gallery >}}
 
 **上 1 枚目：** なんというか、NITMic らしいというか、コンピュータ倶楽部らしいというか、オタク集団らしいというか、ネット民の集合らしいというか...。私はこれを見て懐かしい気持ちになりましたね。そうです。クリエイターになるのは一歩踏み出す勇気だけ、その通りです。MMD みたいな触れやすくて簡単なところからも、創作ははじまるのです。
@@ -34,9 +36,9 @@ aliases: "0016"
 #### 作 / kk、ウナギ
 
 {{< gallery >}}
-{{< figure link="poster3.webp" caption="kk 作 新歓ポスター 1">}}
-{{< figure link="poster4.webp" caption="kk 作 新歓ポスター 2" >}}
-{{< figure link="poster5.webp" caption="ウナギ 作 新歓ポスター">}}
+{{< figure link="poster3.webp" caption="kk 作 新歓ポスター 1" a4="true">}}
+{{< figure link="poster4.webp" caption="kk 作 新歓ポスター 2" a4="true">}}
+{{< figure link="poster5.webp" caption="ウナギ 作 新歓ポスター" a4="true">}}
 {{< /gallery >}}
 
 **上 1,2 枚目：** どちらも淡色系でシンプルかつ、印象に残るポスターですね。こういうデザイン、私は好きです。自分が創ったモノが、"自分"という枠組みを飛び越えて世に出ていく、そんなイメージを感じました。
@@ -51,10 +53,9 @@ aliases: "0016"
 
 #### 作 / name、fjktkm
 
-
 {{< gallery >}}
-{{< figure link="bira1.webp" caption="name 作 新歓ビラ 表" >}}
-{{< figure link="bira2.webp" caption="fjktkm 作 新歓ビラ 裏">}}
+{{< figure link="bira1.webp" caption="name 作 新歓ビラ 表" a4="true">}}
+{{< figure link="bira2.webp" caption="fjktkm 作 新歓ビラ 裏" a4="true">}}
 {{< /gallery >}}
 
 **上 1 枚目：** 「フォントで殴る」みたいなデザインと私は呼んでいるんですが、安易にインパクトを付与できるのでこうしました。背景に使った写真は、昨年の工大祭の CD 販売ブースと、部誌「Archives 2023」の私の記事に使ったフロッピーディスク、それから工大祭のゲームが写っている写真です。「『やりたい！』が集う場所」は私が 1 分で考えたキャッチコピーですが、私は NITMic はそうだと思っているし、そうあって欲しいと思います。
