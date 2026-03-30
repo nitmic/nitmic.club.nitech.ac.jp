@@ -17,7 +17,7 @@ Grid Layout Styles
     position: relative;
     /* Default: 1 tile wide */
     width: 100%;
-    padding-bottom: 100%; 
+    padding-bottom: 100%;
 }
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles */
@@ -45,7 +45,7 @@ Grid Layout Styles
 Transition styles
 */
 .gallery.hover-transition figure,
-.gallery.hover-effect-zoom .img, 
+.gallery.hover-effect-zoom .img,
 .gallery:not(.caption-effect-appear) figcaption,
 .fancy-figure:not(.caption-effect-appear) figcaption {
     -webkit-transition: all 0.3s ease-in-out;
@@ -66,6 +66,7 @@ figure {
     right: 5px;
     top: 5px;
     bottom: 5px;
+    margin: 0;
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);
