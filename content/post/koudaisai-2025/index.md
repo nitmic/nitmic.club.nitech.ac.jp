@@ -29,15 +29,15 @@ NITMic では例年、工大祭向けにゲームを作成し、学生企画に�
 まず、「VRボウリング」ですがタイトル通りVRデバイスを使った体感型のゲームです。ディスプレイだけでは不可能だった高い没入感を実現しています。
 <!-- prettier-ignore-start -->
 {{< gallery>}}
-  {{< figure link="VRBowling_play.png" caption="VRボウリング_プレイ中" >}}
+  {{< figure link="VRBowling_play.webp" caption="VRボウリング_プレイ中" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 
 続いて、「Ma3X」。こちらはなんと自作コントローラーを用いたリズムゲームです。会場でも独自の存在感を放っていました。
 <!-- prettier-ignore-start -->
 {{< gallery>}}
-  {{< figure link="Controller.jpg" caption="専用コントローラー" >}}
-  {{< figure link="Controller_ura.jpg" caption="コントローラーのウラ側" >}}
+  {{< figure link="Controller.webp" caption="専用コントローラー" >}}
+  {{< figure link="Controller_ura.webp" caption="コントローラーのウラ側" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 制作した部員が仕様などを記事にまとめていますので、興味のある方はご一読ください。
@@ -61,7 +61,7 @@ CDを含め、M3に関しては部誌内に記事として掲載されていま�
 
 <!-- prettier-ignore-start -->
 {{< gallery>}}
-  {{< figure link="hanpu.JPG" caption="頒布の様子" >}}
+  {{< figure link="hanpu.webp" caption="頒布の様子" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 
@@ -71,8 +71,8 @@ CDを含め、M3に関しては部誌内に記事として掲載されていま�
 ありがたいことに両日ともにたくさんの来場者にお越しいただき、盛況でした。
 <!-- prettier-ignore-start -->
 {{< gallery>}}
-  {{< figure link="kaijou.jpg" caption="会場の様子" >}}
-  {{< figure link="kaijou_nigiwai.jpg" caption="会場の賑わい" >}}
+  {{< figure link="kaijou.webp" caption="会場の様子" >}}
+  {{< figure link="kaijou_nigiwai.webp" caption="会場の賑わい" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 
@@ -93,7 +93,7 @@ PC-8001（実機）と、私物のノートパソコンでX1の「ボコスカ�
 来場者の方々のうち、お父さん世代から特に注目いただけたように思われます。また、小学生の方にも興味を持っていただけたようです。
 <!-- prettier-ignore-start -->
 {{< gallery>}}
-  {{< figure link="retroPC_corner.jpg" caption="レトロPCコーナー" >}}
+  {{< figure link="retroPC_corner.webp" caption="レトロPCコーナー" >}}
 {{< /gallery>}}
 <!-- prettier-ignore-end -->
 
