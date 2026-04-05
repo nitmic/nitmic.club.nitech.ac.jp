@@ -1510,9 +1510,6 @@ textarea {
   padding-top: 1em;
 }
 
-.flex {
-  display: flex;
-}
 .flex-1 {
   flex-grow: 1;
 }
