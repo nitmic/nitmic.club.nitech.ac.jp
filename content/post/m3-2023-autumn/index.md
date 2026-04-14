@@ -39,6 +39,6 @@ Artist - Mass, Thike, chq, shenzel
 
 ## 設営・頒布の様子
 
-{{< tweet user="nitmic_twi" id="1718439147432714556" >}}
+{{< x user="nitmic_twi" id="1718439147432714556" >}}
 
-{{< tweet user="nitmic_twi" id="1718501855591051557" >}}
+{{< x user="nitmic_twi" id="1718501855591051557" >}}

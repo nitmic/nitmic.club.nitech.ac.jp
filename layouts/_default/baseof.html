@@ -66,12 +66,8 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon.png" | relURL }}">
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not .Site.IsServer }}
-		{{- if hasPrefix .Site.GoogleAnalytics "G-" }}
+	{{- if and (not hugo.IsServer) site.Config.Services.GoogleAnalytics.ID }}
 		{{ template "_internal/google_analytics.html" . }}
-		{{- else }}
-		{{ template "_internal/google_analytics_async.html" . }}
-		{{- end }}
 	{{- end }}
 
 <!-- swiper js -->

@@ -33,7 +33,7 @@ NITMic からは以下 3 チームが参加しました．
 メンバー: dokudami
 
 https://dokudamichang.hatenablog.com/entry/2024/02/10/034112
-{{< tweet user="c0demattari" id="1748262060314755438" >}}
+{{< x user="c0demattari" id="1748262060314755438" >}}
 
 ## AI Font Booster ㌠
 
@@ -42,7 +42,7 @@ https://dokudamichang.hatenablog.com/entry/2024/02/10/034112
 メンバー: fjktkm, Mass
 
 https://zenn.dev/nitmic/articles/7b7703fa0ff21f
-{{< tweet user="c0demattari" id="1748262053897474430" >}}
+{{< x user="c0demattari" id="1748262053897474430" >}}
 
 ## nitmic 下級生チーム
 
