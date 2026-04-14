@@ -1,4 +1,13 @@
 <article class="list__item post">
+	{{- $excerpt := "" -}}
+	{{- with .Params.summary -}}
+		{{- $excerpt = . -}}
+	{{- else -}}
+		{{- $raw := .RawContent -}}
+		{{- $raw = replaceRE `(?s){{[%<].*?[%>]}}` "" $raw -}}
+		{{- $raw = replaceRE `(?m)^#{1,6}\s*` "" $raw -}}
+		{{- $excerpt = $raw | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+	{{- end -}}
 	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
 	<header class="list__header">
 		<h2 class="list__title post__title">
@@ -14,7 +23,7 @@
 		{{- end }}
 	</header>
 	<div class="content list__excerpt post__content clearfix">
-		{{ .Summary }}
+		{{ $excerpt | truncate 260 }}
 	</div>
 	{{- if .Site.Params.readmore }}
 	{{- if .Truncated }}

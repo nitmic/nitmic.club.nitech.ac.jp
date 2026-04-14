@@ -10,10 +10,6 @@ languageCode = "ja"  # ja に変更
 paginate = "10"      # Number of posts per page
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 
-[services]
-  [services.googleAnalytics]
-    id = "" # Enable Google Analytics by entering your tracking id
-
 # hugo build 設定
 noTimes = true
 
@@ -21,6 +17,10 @@ noTimes = true
 #日本語用の.Summary設定
 hasCJKLanguage = true
 summaryLength = 130
+
+[services]
+  [services.googleAnalytics]
+    id = "" # Enable Google Analytics by entering your tracking id
 
 [module]
   [[module.imports]]
