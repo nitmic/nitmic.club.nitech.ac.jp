@@ -1,5 +1,4 @@
 <article class="list__item post">
-	{{- $excerpt := .Params.summary | default (.Summary | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace) -}}
 	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
 	<header class="list__header">
 		<h2 class="list__title post__title">
@@ -15,7 +14,7 @@
 		{{- end }}
 	</header>
 	<div class="content list__excerpt post__content clearfix">
-		{{ $excerpt | truncate 260 }}
+		{{ .Plain | truncate 160 }}
 	</div>
 	{{- if .Site.Params.readmore }}
 	{{- if .Truncated }}
