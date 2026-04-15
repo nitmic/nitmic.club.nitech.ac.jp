@@ -11,6 +11,7 @@ on:
 jobs:
   deploy:
     runs-on: self-hosted
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Create Temporary Directory
         id: create_temp_dir
