@@ -4,7 +4,7 @@
 ![workflow](https://github.com/nitmic/nitmic.club.nitech.ac.jp/actions/workflows/deploy.yml/badge.svg)
 ![workflow](https://github.com/nitmic/nitmic.club.nitech.ac.jp/actions/workflows/disk_space_alert.yml/badge.svg)
 
-URL：http://nitmic.club.nitech.ac.jp/
+URL：https://nitmic.club.nitech.ac.jp/
 
 ## Overview
 
