@@ -17,7 +17,7 @@
 				{{ $title := .Title}}
 				{{if ne $index -1}}
 				<a class="meta__link" href="{{ .RelPermalink }}" rel="category">
-					{{ range .Site.Data.member }}
+					{{ range hugo.Data.member }}
 						{{ range .Members }}
 							{{if eq .Name $title}}
 								{{ if .Icon }}

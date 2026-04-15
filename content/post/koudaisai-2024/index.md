@@ -36,7 +36,7 @@ NITMic では例年、工大祭向けにゲームを作成し、学生企画に�
 
 > [Archives 2024 (pdf) - NITMic - BOOTH](https://nitmic.booth.pm/items/6645860)
 
-{{< tweet user="nitmic_twi" id="1857599261577449942" >}}
+{{< x user="nitmic_twi" id="1857599261577449942" >}}
 
 ### 会場の様子
 
