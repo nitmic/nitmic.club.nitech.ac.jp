@@ -28,11 +28,7 @@ NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmi
 2. 土曜日夜 7 時～：お題発表＆ワンドロ開始
 3. ～土曜日夜 9 時：ワンドロ終了＆ハッシュタグをつけて投稿
 
-<div class="col">
-    <div class="row justify-content-center">
-        {{< figure src="image-1.webp" title="説明画像１" class="img-fluid" width="500">}}
-    </div>
-</div>
+{{<figure src="image-1.webp" caption="説明画像１">}}
 
 ##### お題について
 
@@ -43,17 +39,11 @@ NITMic では、2020 年冬から [#nitmic1draw](https://x.com/search?q=%23nitmi
 作品はなんでもかまいません。
 `デジタルイラスト`、`アナログイラスト`、`ドット絵`、`３Dモデル`、`シェーダー`、など
 
-<div class="col">
-    <div class="row justify-content-center">
-        {{< figure src="image-2.webp" title="説明画像２" class="center" width="500" alt="10">}}
-    </div>
-</div>
+{{<figure src="image-2.webp" caption="説明画像２">}}
 
 ### おわりに
 
 参加は自由です。気軽にご参加ください。
 NITMic 部員以外の参加も大歓迎です。
 
-<a href="https://x.com/nitmic1draw?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nitmic1draw</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<link href="/dist/css/center.css" rel="stylesheet">
+[@nitmic1draw をフォロー](https://x.com/nitmic1draw)
