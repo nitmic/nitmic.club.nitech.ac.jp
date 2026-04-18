@@ -8,7 +8,7 @@
     </article>
 </main>
 
-{{ range .Site.Data.member }}
+{{ range hugo.Data.member }}
 
 {{ $visibleMembers := where .Members "visible" true }}
 

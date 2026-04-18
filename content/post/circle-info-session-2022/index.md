@@ -11,7 +11,7 @@ menu: "false"
 aliases: "0011"
 ---
 
-こんにちは、2022NITMic 代表の [dokudami](http://nitmic.club.nitech.ac.jp/authors/dokudami/) です。
+こんにちは、2022NITMic 代表の [dokudami](https://nitmic.club.nitech.ac.jp/authors/dokudami/) です。
 
 ### 合同サークル説明会（オンライン）！
 
@@ -49,4 +49,4 @@ NITMic にご興味を持っていただき、入部をご検討されている�
 
 ※入部案内が届かない場合、迷惑メールとして処理されている可能性があるので、ご確認ください。
 
-> [➡ 入部ページ](http://nitmic.club.nitech.ac.jp/top/join/)
+> [➡ 入部ページ](https://nitmic.club.nitech.ac.jp/top/join/)

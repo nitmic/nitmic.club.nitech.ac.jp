@@ -42,12 +42,12 @@
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
 
 
-	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" }}
+	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" }}
 	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	<link rel="stylesheet" {{ printf `href="%s"` $googleFontsLink | safeHTMLAttr }}>
+	<link rel="stylesheet" href="{{ $googleFontsLink }}">
 	{{- end }}
 
 
@@ -66,24 +66,20 @@
 	<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon.png" | relURL }}">
 	<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
 	<link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}">
-	{{- if not .Site.IsServer }}
-		{{- if hasPrefix .Site.GoogleAnalytics "G-" }}
+	{{- if and (not hugo.IsServer) site.Config.Services.GoogleAnalytics.ID }}
 		{{ template "_internal/google_analytics.html" . }}
-		{{- else }}
-		{{ template "_internal/google_analytics_async.html" . }}
-		{{- end }}
 	{{- end }}
 
-<!-- swiper js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+	<!-- swiper js -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js" integrity="sha512-E9ezH29tutgGF9ZEFg43IK/1B0rRriQm5oHCG5HyrJHAInBnZPOgoRcnsinWZ+/QcVRiatdpXrdBZQhzpbz7Rw==" crossorigin="anonymous"></script>
 
-<!-- swiper css -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css">
+	<!-- swiper css -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css" integrity="sha512-NK1a+fwVgHnWk57liCcVd4/Cm9meSmYYY130YqQ3fEOD7gw3GQ36UJ+CZWVfpM/CtE08YkpIg4MBGzwNG2P3SQ==" crossorigin="anonymous">
 
-<!-- 画像ポップアップ用 -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+	<!-- 画像ポップアップ用 -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet" integrity="sha512-n/NKfgu/ornW6hzAcIqm6S9VF9Ms57qLjg8dq/7rDj48oeuTeJAawUM0mEXbuDMGLH2Bw+4fWZae/1qXuut68Q==" crossorigin="anonymous">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha512-U6K1YLIFUWcvuw5ucmMtT9HH4t0uz3M366qrF5y4vnyH6dgDzndlcGvH/Lz5k8NFh80SN95aJ5rqGZEdaQZ7ZQ==" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" integrity="sha512-lMeVFaY2AMSYRjkeBdn0JOhyZ5rL3//wohEwpuE0iZHOmzJlAOWMUayhcJlfomIHyqdvENcFZyCgMbGdD53OfQ==" crossorigin="anonymous"></script>
 
 </head>
 

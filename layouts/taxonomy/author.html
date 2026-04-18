@@ -1,29 +1,29 @@
 {{ define "main" }}
 <main class="main list" role="main">
 
-	{{ $title := .Title }}
-	{{ $member := .Site.Data.member }}
-	
+	{{ $title := $.Data.Term }}
+	{{ $member := hugo.Data.member }}
+
 
 	{{- with .Title }}
 	<header class="main__header">
 		<h1 class="main__title">
-			
+
 			<!--
 				{{- partial "svg/author.svg" (dict "class" "meta__icon") -}}
 			-->
 
 			{{ range $member }}
 				{{ range .Members }}
-					{{ if eq .Name $title }}
+					{{ if eq .Name $.Data.Term }}
 						{{ if .Icon}}
 							<img class="author_icon_img" src="{{.Icon}}" alt="">
 						{{ end }}
 					{{ end }}
 				{{ end }}
 			{{ end }}
-	
-			{{ . }}
+
+			{{ $.Data.Term }}
 		</h1>
 	</header>
 	{{- end }}

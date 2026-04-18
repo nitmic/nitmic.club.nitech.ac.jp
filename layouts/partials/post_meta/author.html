@@ -1,38 +1,31 @@
-
 <!-- 筆者 -->
 {{- $taxo := "authors" -}}
 {{- with .Param $taxo -}}
 <div class="meta__item-author meta__item">
-	<!--
-	{{- partial "svg/author.svg" (dict "class" "meta__icon") -}}
-	-->
 	<span class="meta__text">
 
 		{{- range $index, $author := . }}
-			{{- $url := urls.Parse ($author | urlize) -}}
-			{{- $path := $url.Path -}}
-			{{- with $.Site.GetPage (printf "/%s/%s" $taxo $path) }}
-			<!--
-				{{- if gt $index 0 }}, {{ end -}}
-			-->
-				{{ $title := .Title}}
-				{{if eq $index 0}}
-				<a class="meta__link" href="{{ .RelPermalink }}" rel="category">
-					{{ range .Site.Data.member }}
-						{{ range .Members }}
-							{{if eq .Name $title}}
-								{{ if .Icon }}
-								<img class="member_icon_img" src="{{ .Icon }}" alt="" aria-hidden="true">
-								{{ end }}
-							{{ end }}
-						{{ end }}
-					{{ end }}	
-					{{ .Title }}
-				</a>
-				{{end}}
-			{{- end }}
+		{{- $url := urls.Parse ($author | urlize) -}}
+		{{- $path := $url.Path -}}
+		{{- with $.Site.GetPage (printf "/%s/%s" $taxo $path) }}
+		{{- $term := .Data.Term -}}
+		{{- if eq $index 0 }}
+		<a class="meta__link" href="{{ .RelPermalink }}" rel="category">
+			{{ range hugo.Data.member }}
+			{{ range .Members }}
+			{{ if eq .Name $term }}
+			{{ if .Icon }}
+			<img class="member_icon_img" src="{{ .Icon }}" alt="" aria-hidden="true">
+			{{ end }}
+			{{ end }}
+			{{ end }}
+			{{ end }}
+			{{ $term }}
+		</a>
 		{{- end }}
-		
+		{{- end }}
+		{{- end }}
+
 	</span>
 </div>
 {{- end }}
