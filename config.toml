@@ -18,6 +18,9 @@ noTimes = true
 hasCJKLanguage = true
 summaryLength = 130
 
+#  自動リストタイトルを大文字にするのを防ぐ
+capitalizeListTitles = false
+
 [services]
   [services.googleAnalytics]
     id = "" # Enable Google Analytics by entering your tracking id
