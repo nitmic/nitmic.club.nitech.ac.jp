@@ -3,7 +3,7 @@ title: "機器修理奮闘録PC-6001編"
 date: "2026-05-08"
 thumbnail: "thumb.webp"
 categories: ["記事"]
-tags: ["NITMic", "2026", "日記", "ハードウェア"]
+tags: ["NITMic", "2026", "日記", "ハードウェア", "計算機"]
 sidebar: "right"
 authors: ["獺祭", "Name", "Orange"]
 ---
