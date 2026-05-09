@@ -41,16 +41,6 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
 
-
-	{{- $googleFontsLink := .Site.Params.googleFontsLink | default "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" }}
-	{{- if hasPrefix $googleFontsLink "https://fonts.googleapis.com/" }}
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="dns-prefetch" href="//fonts.googleapis.com">
-	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	<link rel="stylesheet" href="{{ $googleFontsLink }}">
-	{{- end }}
-
-
 	<!-- customCSSを適用している箇所 , rangeだから複数customCSS登録しても大丈夫そう？ -->
 	{{ $style := resources.Get "/css/custom.css" | resources.ExecuteAsTemplate "/css/custom.css" . | resources.Minify | resources.Fingerprint -}}
 	<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous">
