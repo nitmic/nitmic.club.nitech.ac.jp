@@ -1,10 +1,5 @@
 {{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#e22d30") -}}
 
-{{- $fontSans := `"Open Sans", Helvetica, Arial, sans-serif` -}}
-{{- $fontMono := `SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace` -}}
-{{- $fontFamilyPrimary := .Site.Params.style.vars.fontFamilyPrimary | default $fontSans -}}
-{{- $fontFamilySecondary := .Site.Params.style.vars.fontFamilySecondary | default $fontMono -}}
-
 *,
 *::before,
 *::after {
@@ -38,7 +33,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: {{ $fontFamilyPrimary }};
+	font-family: sans-serif;
 	font-size: 14px;
 	font-size: .875rem;
 	line-height: 1.6;
@@ -250,7 +245,7 @@ pre,
 code,
 kbd,
 samp {
-	font-family: {{ $fontFamilySecondary }};
+	font-family: monospace;
 	font-size: inherit;
 }
 
@@ -334,7 +329,7 @@ q {
 address {
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
-	font-family: "Consolas", Courier New, Courier, monospace;
+	font-family: monospace;
 	line-height: 1.5;
 }
 
