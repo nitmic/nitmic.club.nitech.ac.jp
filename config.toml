@@ -5,7 +5,7 @@ baseURL = 'https://nitmic.club.nitech.ac.jp/'
 # theme = "mainroad"
 
 # baseurl = "/"
-title = "名古屋工業大学コンピュータ倶楽部 NITMic"     # 名古屋工業大学コンピュータ倶楽部 NITMic に変更
+title = "名古屋工業大学コンピュータ倶楽部 NITMic"
 languageCode = "ja"  # ja に変更
 paginate = "10"      # Number of posts per page
 disqusShortname = "" # Enable comments by entering your Disqus shortname
