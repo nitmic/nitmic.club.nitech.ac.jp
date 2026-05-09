@@ -101,6 +101,9 @@
 	<!-- jQuery + Lightbox2（Lightbox2 は jQuery に依存するため順序を維持） -->
 	<script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 	<script defer src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js" integrity="sha512-Ixzuzfxv1EqafeQlTCufWfaC6ful6WFqIz4G+dWvK0beHw0NVJwvCKSgafpy5gwNqKmgUfIBraVwkKI+Cz0SEQ==" crossorigin="anonymous"></script>
+	{{- if .Scratch.Get "photoswipeloaded" }}
+	<script defer src="{{ "js/load-photoswipe.js" | relURL }}"></script>
+	{{- end }}
 	{{ range .Site.Params.customJS -}}
 	<script defer src="{{ . | relURL }}"></script>
 	{{- end }}
