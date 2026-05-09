@@ -7,10 +7,6 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 {{ if not ($.Page.Scratch.Get "photoswipeloaded") }}
   {{ $.Page.Scratch.Set "photoswipeloaded" 1 }}
 
-<!--
-*** jQuery must be loaded before load-photoswipe.js ***
-- jQuery is already loaded in baseof.html, so we don't need to load it again here.
--->
 <script src={{ "js/load-photoswipe.js" | relURL }}></script>
 
 <!-- Photoswipe css/js libraries -->
