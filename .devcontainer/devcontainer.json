@@ -8,19 +8,6 @@
 	},
 	"customizations": {
 		"vscode": {
-			"settings": {
-				"files.autoSave": "afterDelay",
-				"editor.formatOnPaste": true,
-				"editor.formatOnSave": true,
-				"editor.formatOnType": true,
-				"files.trimFinalNewlines": true,
-				"files.trimTrailingWhitespace": true,
-				"files.insertFinalNewline": true,
-				"[markdown]": {
-					"editor.defaultFormatter": "esbenp.prettier-vscode",
-					"editor.formatOnSave": true
-				}
-			},
 			"extensions": [
 				"esbenp.prettier-vscode",
 				"tamasfe.even-better-toml"
