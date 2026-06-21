@@ -128,7 +128,7 @@ PC-6001は、新日本電気(かつて存在したNECの子会社)から1981年�
 
 ## CMTインターフェース故障疑惑
 
-続いてROMの吸出しです。PC-6001はマシン語モニタに入ることが出来ないためIshioka氏が作成された[saver](https://info-geocities.yahoo.co.jp/SiliconValley-PaloAlto/8861/p6soft/)というBASICプログラムを用います。
+続いてROMの吸出しです。PC-6001はマシン語モニタに入ることが出来ないためIshioka氏が作成された[saver](http://www.retropc.net/isio/mysoft/#saver)というBASICプログラムを用います。
 幸いにもCMTケーブルはあったので、部室PCから音声を出力し、PC-6001でCLOADしてみましたが、うまくいきません。
 LINE OUTからもPHONE OUTからも読み込めないので、プログラムを手打ちして、PC-6001から部室のデスクトップPCへの出力を試しますが、こちらもうまくいきません。絶望。
 
