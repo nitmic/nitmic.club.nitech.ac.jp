@@ -143,4 +143,4 @@ T2-ファージのようなオブジェクト、DNA のようなオブジェク�
 [^1]: [日本ゲーム大賞 2022「アマチュア部門」](https://awards.cesa.or.jp/2022/amateur/)
 [^2]: [スキージャム勝山が最高すぎるよ鉢音さん！スキー、スノーボードが最高に楽しめるスノーリゾート - YouTube](https://www.youtube.com/watch?v=P0ldXs4R7ho)
 [^3]: [Unity 2022 新機能！スプラインを使ってみよう！ - YouTube](https://www.youtube.com/watch?v=5IrKqVnvP6M)
-[^4]: [NITMic ゲームセンター 2022 - NITMic](https://nitmic.club.nitech.ac.jp//post/koudaisai-2022/)
+[^4]: [NITMic ゲームセンター 2022 - NITMic]({{< relref "/post/koudaisai-2022" >}})

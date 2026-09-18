@@ -1,10 +1,12 @@
 # NITMic 公式 Web サイト
 
-![workflow](https://github.com/nitmic/nitmic.club.nitech.ac.jp/actions/workflows/build.yml/badge.svg)
-![workflow](https://github.com/nitmic/nitmic.club.nitech.ac.jp/actions/workflows/deploy.yml/badge.svg)
+![Custom Domain](https://github.com/nitmic/nitmic.club.nitech.ac.jp/actions/workflows/custom-domain.yml/badge.svg)
+![GitHub Pages](https://github.com/nitmic/nitmic.club.nitech.ac.jp/actions/workflows/pages.yml/badge.svg)
 ![workflow](https://github.com/nitmic/nitmic.club.nitech.ac.jp/actions/workflows/disk_space_alert.yml/badge.svg)
 
 URL：https://nitmic.club.nitech.ac.jp/
+
+GitHub Pages：https://nitmic.github.io/nitmic.club.nitech.ac.jp/
 
 ## Overview
 
@@ -48,20 +50,20 @@ NITMic 公式サイトは、大学の提供する [課外活動用ウェブサ�
 
 ### 自動デプロイの設定
 
-NITMic 公式サイトは `main` ブランチが更新される度に自動でデプロイされるように設定されています。
+NITMic 公式サイトは `main` ブランチが更新される度に、ホスティングサーバーと GitHub Pages へ自動でデプロイされるように設定されています。
 具体的には、GitHub Actions により次のような流れでデプロイが行われます：
 
 1. `main` ブランチが更新される
-2. Build ワークフローにより GitHub Hosted Runner でビルド結果を含む Release を作成する
-3. Deploy ワークフローにより Self Hosted Runner で最新の Release に含まれるビルド結果をホスティングサーバーにデプロイする
-4. Disk Space Alert ワークフローによりサーバーのディスク容量を確認する
+2. Custom Domain ワークフローにより GitHub Hosted Runner でビルド結果を含む Release を作成し、Self Hosted Runner でホスティングサーバーにデプロイする
+3. GitHub Pages ワークフローにより GitHub Pages 用のビルドとデプロイを行う
+4. Custom Domain ワークフローの完了後、Disk Space Alert ワークフローによりサーバーのディスク容量を確認する
 
 ### Self Hosted Runner の起動方法
 
 > [!NOTE]
 > Self Hosted Runner については [公式ドキュメント](https://docs.github.com/ja/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners) を参照してください。
 
-NITMic 公式サイトの Deploy ワークフローは、ホスティングサーバー上の Self Hosted Runner で実行しています。
+NITMic 公式サイトの Custom Domain ワークフローに含まれるデプロイジョブは、ホスティングサーバー上の Self Hosted Runner で実行しています。
 これは、ほかの方法では VPN 接続が必要になり自動化が困難だったからです。
 なんらかの原因で Self Hosted Runner が停止した場合、ホスティングサービスの管理画面の「SSH ターミナル」を開きホームディレクトリで次のコマンドを実行し Self Hosted Runner を起動してください：
 

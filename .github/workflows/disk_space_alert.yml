@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * 1"
   workflow_run:
     workflows:
-      - Deploy
+      - Custom Domain
     types:
       - completed
 

@@ -9,9 +9,9 @@
     {{ end }}
     -->
     
-    <a href="/authors/{{ urlize $name }}" class="member_name">
+    <a href="{{ printf "authors/%s/" (urlize $name) | relURL }}" class="member_name">
         {{if .Icon}}
-        <img class="member_icon_img" src="{{ .Icon }}" alt="" aria-hidden="true">
+        <img class="member_icon_img" src="{{ strings.TrimPrefix "/" .Icon | relURL }}" alt="" aria-hidden="true">
         {{end}}
         {{ $name }}
     </a>
@@ -32,4 +32,3 @@
 
 
 </div>
-
