@@ -6,7 +6,8 @@ baseURL = 'https://nitmic.club.nitech.ac.jp/'
 
 # baseurl = "/"
 title = "名古屋工業大学コンピュータ倶楽部 NITMic"
-languageCode = "ja"  # ja に変更
+locale = "ja"
+defaultContentLanguage = "ja"
 paginate = "10"      # Number of posts per page
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 
@@ -28,6 +29,10 @@ capitalizeListTitles = false
 [module]
   [[module.imports]]
     path = 'github.com/Vimux/Mainroad'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [taxonomies]
 author = "authors"
