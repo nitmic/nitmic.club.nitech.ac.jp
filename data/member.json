@@ -5,174 +5,174 @@
       {
         "Name": "独房",
         "Icon": "/images/members_icon/2025/独房.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ひむひむ",
         "Icon": "/images/members_icon/2025/ひむひむ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "TomRek",
         "Icon": "/images/members_icon/2025/TomRek.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ベーカリー",
         "Icon": "/images/members_icon/2025/ベーカリー.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "とろみ",
         "Icon": "/images/members_icon/2025/とろみ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Saella",
         "Icon": "/images/members_icon/2025/Saella.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "りゅう",
         "Icon": "/images/members_icon/2025/りゅう.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "かめ",
         "Icon": "/images/members_icon/2025/かめ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "NEgiMOchi",
         "Icon": "/images/members_icon/2025/NEgiMOchi.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "めど",
         "Icon": "/images/members_icon/2025/めど.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ぺしら",
         "Icon": "/images/members_icon/2025/ppeShira.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "まさお",
         "Icon": "/images/members_icon/2025/まさお.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "mitsuki",
         "Icon": "/images/members_icon/2025/mitsuki.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "なっしー",
         "Icon": "/images/members_icon/2025/なっしー.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "okyuu",
         "Icon": "/images/members_icon/2025/okyuu.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "butterfly",
         "Icon": "/images/members_icon/2025/butterfly.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "かとうきょうへい",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ほここ",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ペンタゴン",
-        "visible": true
+        "past": false
       },
       {
         "Name": "東海",
-        "visible": true
+        "past": false
       },
       {
         "Name": "H.S",
-        "visible": true
+        "past": false
       },
       {
         "Name": "はと",
-        "visible": true
+        "past": false
       },
       {
         "Name": "あずまち",
-        "visible": true
+        "past": false
       },
       {
         "Name": "まる",
-        "visible": true
+        "past": false
       },
       {
         "Name": "きなこ",
-        "visible": true
+        "past": false
       },
       {
         "Name": "らむ",
-        "visible": true
+        "past": false
       },
       {
         "Name": "yuki",
-        "visible": true
+        "past": false
       },
       {
         "Name": "いおりん",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Rs",
-        "visible": true
+        "past": false
       },
       {
         "Name": "るんるん",
-        "visible": true
+        "past": false
       },
       {
         "Name": "セグウェイ",
-        "visible": true
+        "past": false
       },
       {
         "Name": "バラン",
-        "visible": true
+        "past": false
       },
       {
         "Name": "やままる",
-        "visible": true
+        "past": false
       },
       {
         "Name": "するめ",
-        "visible": true
+        "past": false
       },
       {
         "Name": "湊都",
-        "visible": true
+        "past": false
       },
       {
         "Name": "あんぱん",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ketom",
-        "visible": true
+        "past": false
       },
       {
         "Name": "イカフライ",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Xeon",
-        "visible": true
+        "past": false
       }
     ]
   },
@@ -182,98 +182,98 @@
       {
         "Name": "Krkrt",
         "Icon": "/images/members_icon/2024/krkrt.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ねぎ塩",
         "Icon": "/images/members_icon/2024/ねぎ塩.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "くじら",
         "Icon": "/images/members_icon/2024/くじら.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "きゅうり",
         "Icon": "/images/members_icon/2024/きゅうり.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ごみっきぃ",
         "Icon": "/images/members_icon/2024/ごみっきぃ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "KOU",
         "Icon": "/images/members_icon/2024/kou.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Δ∇",
         "Icon": "/images/members_icon/2024/kamishita.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Back",
         "Icon": "/images/members_icon/2024/Back.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "さみおす",
         "Icon": "/images/members_icon/2024/さみおす.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ゆず庵",
         "Icon": "/images/members_icon/2024/ゆず庵.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ツチトハ",
         "Icon": "/images/members_icon/2024/ツチトハ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "猫月",
         "Icon": "/images/members_icon/2024/nekotsuki.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Orange",
         "Icon": "/images/members_icon/2024/Orange.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "あかつき",
         "Icon": "/images/members_icon/2024/あかつき.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Kazookey",
         "Icon": "/images/members_icon/2024/Kazookey.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "AKIzNiL",
         "Icon": "/images/members_icon/2024/AKIzNiL.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Deutschland",
-        "visible": true
+        "past": false
       },
       {
         "Name": "タベ",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ゲン",
-        "visible": true
+        "past": false
       },
       {
         "Name": "seiya",
-        "visible": true
+        "past": false
       }
     ]
   },
@@ -283,139 +283,139 @@
       {
         "Name": "さいわ",
         "Icon": "/images/members_icon/2023/さいわ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "柚子",
         "Icon": "/images/members_icon/2023/柚子.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "メメ",
         "Icon": "/images/members_icon/2023/メメ.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "nanto",
         "Icon": "/images/members_icon/2023/nanto.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "はるさめ",
         "Icon": "/images/members_icon/2023/はるさめ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "SoyMaple",
         "Icon": "/images/members_icon/2023/SoyMaple.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "yamaaaa",
         "Icon": "/images/members_icon/2023/yamaaaa.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ラムのみ",
         "Icon": "/images/members_icon/2023/ラムのみ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "アサヒ",
         "Icon": "/images/members_icon/2023/アサヒ.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Blast",
         "Icon": "/images/members_icon/2023/Blast.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "cube",
         "Icon": "/images/members_icon/2023/cube.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "じーぶ",
         "Icon": "/images/members_icon/2023/じーぶ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ひいす",
         "Icon": "/images/members_icon/2023/ひいす.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "じめんドラゴン",
         "Icon": "/images/members_icon/2023/じめんドラゴン.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "karanasi",
         "Icon": "/images/members_icon/2023/からなし.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "獺祭",
         "Icon": "/images/members_icon/2023/獺祭.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "わっち",
         "Icon": "/images/members_icon/2023/わっち.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ウナギ",
         "Icon": "/images/members_icon/2023/ウナギ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "田中くん",
         "Icon": "/images/members_icon/2023/田中くん.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ID",
         "Icon": "/images/members_icon/2023/ID.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "h_ryo",
         "Icon": "/images/members_icon/2023/h_ryo.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ヒ",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ぞの",
-        "visible": false
+        "past": true
       },
       {
         "Name": "じんるい",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Whiellow",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ミザ",
-        "visible": false
+        "past": true
       },
       {
         "Name": "くらぶり",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ガフ",
-        "visible": false
+        "past": true
       },
       {
         "Name": "TFJ",
-        "visible": false
+        "past": true
       }
     ]
   },
@@ -425,84 +425,84 @@
       {
         "Name": "Name",
         "Icon": "/images/members_icon/2022/Name.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "iiTAi",
         "Icon": "/images/members_icon/2022/iiTAi.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Shiwasu",
         "Icon": "/images/members_icon/2022/Shiwasu.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Reid",
         "Icon": "/images/members_icon/2022/Reid.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "シングチ",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ショコラ",
         "Icon": "/images/members_icon/2022/ショコラ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "cacao",
         "Icon": "/images/members_icon/2022/cacao.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Seirios",
         "Icon": "/images/members_icon/2022/Seirios.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "亀",
-        "visible": false
+        "past": true
       },
       {
         "Name": "UmiShijimi",
         "Icon": "/images/members_icon/2022/UmiShijimi.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "まつ",
         "Icon": "/images/members_icon/2022/まつ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "わたあめ",
         "Icon": "/images/members_icon/2022/わたあめ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "テト",
         "Icon": "/images/members_icon/2022/テト.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ペイト",
         "Icon": "/images/members_icon/2022/ペイト.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "でるたえる",
         "Icon": "/images/members_icon/2022/でるたえる.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Oru",
         "Icon": "/images/members_icon/2022/Oru.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "kei",
-        "visible": true
+        "past": false
       }
     ]
   },
@@ -515,7 +515,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/MT1.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "がわ",
@@ -523,7 +523,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/がわ.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "kk",
@@ -531,7 +531,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/kk.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "S.A.Taz",
@@ -539,7 +539,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/S.A.Taz.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "きひろ",
@@ -547,7 +547,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/きひろ.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "はやし",
@@ -555,7 +555,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/noicon_blue.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Taku-san",
@@ -563,7 +563,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/Taku-san.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "いず",
@@ -571,7 +571,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/いず.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Yujin-K",
@@ -579,7 +579,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/Yujin-k.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ムク",
@@ -587,7 +587,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/ムク.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Artst",
@@ -595,7 +595,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/Artst.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "shinato",
@@ -603,7 +603,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/shinato.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "きょう",
@@ -611,7 +611,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/きょう.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "かんぺい",
@@ -619,7 +619,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2021/かんぺい.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "フジソン",
@@ -627,7 +627,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/noicon_green.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "fjktkm",
@@ -635,7 +635,7 @@
           "2Dデザイナー"
         ],
         "Icon": "/images/members_icon/2021/fjktkm.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "塩味",
@@ -643,7 +643,7 @@
           "3Dデザイナー"
         ],
         "Icon": "/images/members_icon/2021/塩味.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "ジュンセイ",
@@ -651,7 +651,7 @@
           "3Dデザイナー"
         ],
         "Icon": "/images/members_icon/2021/ジュンセイ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "乙矢",
@@ -659,7 +659,7 @@
           "3Dデザイナー"
         ],
         "Icon": "/images/members_icon/2021/乙矢.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ニマーン",
@@ -667,7 +667,7 @@
           "3Dデザイナー"
         ],
         "Icon": "/images/members_icon/2021/ニマーン.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Thike",
@@ -675,7 +675,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2021/Thike.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "Mass",
@@ -683,7 +683,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2021/Mass.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "セレン",
@@ -691,7 +691,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2021/セレン.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "shenzel",
@@ -699,7 +699,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2021/shenzel.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "たくみ",
@@ -707,7 +707,7 @@
           " "
         ],
         "Icon": "/images/members_icon/noicon_lightblue.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "とり",
@@ -715,7 +715,7 @@
           " "
         ],
         "Icon": "/images/members_icon/2021/とり.webp",
-        "visible": false
+        "past": true
       }
     ]
   },
@@ -732,7 +732,7 @@
         "Twitter": "https://x.com/dokudamichang",
         "Homepage": "https://scrapbox.io/dokudamibox/",
         "Git": "https://github.com/ysdzm",
-        "visible": true
+        "past": false
       },
       {
         "Name": "kuru",
@@ -741,7 +741,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/kuru.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "りーくん",
@@ -750,7 +750,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/りーくん.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Sora513",
@@ -759,7 +759,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/Sora513.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Yuji",
@@ -768,7 +768,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/noicon_orenze.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "たいち",
@@ -777,7 +777,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/たいち.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "黒豆腐",
@@ -786,7 +786,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/黒豆腐.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ナス好き",
@@ -795,7 +795,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/ナス好き.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "しお",
@@ -804,7 +804,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/しお.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "はっしー",
@@ -813,7 +813,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/はっしー.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "tamaki",
@@ -825,7 +825,7 @@
         "Twitter": "https://x.com/TmgHiro",
         "Git": "https://github.com/tamaki380",
         "Homepage": "https://tamaki380.github.io/myhomepage.github.io/index.html",
-        "visible": true
+        "past": false
       },
       {
         "Name": "mitsuya",
@@ -834,7 +834,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/mituya.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "sui",
@@ -843,7 +843,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/sui.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "こーせー",
@@ -852,7 +852,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/こーせー.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "あかさわわわ",
@@ -862,7 +862,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2020/あかさわわわ.webp",
-        "visible": true
+        "past": false
       },
       {
         "Name": "hydriod",
@@ -871,7 +871,7 @@
         ],
         "Icon": "/images/members_icon/2020/hydriod.webp",
         "Description": "",
-        "visible": true
+        "past": false
       }
     ]
   },
@@ -884,7 +884,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2019/アルエット.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Nov",
@@ -892,7 +892,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2019/Nov.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "オガトモ",
@@ -900,7 +900,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2019/おがとも.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ホソヤ",
@@ -908,7 +908,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2019/ホソヤ.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "りお",
@@ -916,7 +916,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/noicon_yellow.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "スズキ",
@@ -924,7 +924,7 @@
           "2Dデザイナー"
         ],
         "Icon": "/images/members_icon/2019/スズキ.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "深月詠狐",
@@ -932,7 +932,7 @@
           "2Dデザイナー"
         ],
         "Icon": "/images/members_icon/2019/深月詠狐.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "おばこう",
@@ -940,7 +940,7 @@
           "2Dデザイナー"
         ],
         "Icon": "/images/members_icon/2019/おばこう.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "東西南アカリ",
@@ -949,7 +949,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2019/東西南アカリ.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "fibrin",
@@ -957,7 +957,7 @@
           "3Dデザイナー"
         ],
         "Icon": "/images/members_icon/2019/fibrin.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "真言",
@@ -965,7 +965,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2019/shingon.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "昆布",
@@ -973,7 +973,7 @@
           "コンポーザー"
         ],
         "Icon": "/images/members_icon/2019/昆布.webp",
-        "visible": false
+        "past": true
       }
     ]
   },
@@ -986,7 +986,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2018/ru.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Myaa",
@@ -994,7 +994,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2018/Myaa.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "ntk",
@@ -1002,7 +1002,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2018/ntk.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "Han",
@@ -1010,7 +1010,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2018/Han.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "nerune",
@@ -1018,7 +1018,7 @@
           "プログラマ"
         ],
         "Icon": "/images/members_icon/2019/nerune.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "kiritannpo",
@@ -1027,7 +1027,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2018/kiritannpo.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "mono",
@@ -1036,7 +1036,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2018/mono.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "dotsome",
@@ -1045,7 +1045,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2018/dotsome.webp",
-        "visible": false
+        "past": true
       },
       {
         "Name": "bokachin",
@@ -1054,7 +1054,7 @@
         ],
         "Description": "",
         "Icon": "/images/members_icon/2018/bokachin.webp",
-        "visible": false
+        "past": true
       }
     ]
   }

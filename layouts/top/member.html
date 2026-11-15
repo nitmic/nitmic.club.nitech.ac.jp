@@ -10,15 +10,15 @@
 
 {{ range hugo.Data.member }}
 
-{{ $visibleMembers := where .Members "visible" true }}
+{{ $members := where .Members "past" false }}
 
-{{ if gt (len $visibleMembers) 0 }}
+{{ if gt (len $members) 0 }}
 {{ with .Year }}
 <h4>{{ . }}入学</h4>
 {{ end }}
 
 <div class="cards">
-    {{ range $visibleMembers }}
+    {{ range $members }}
     {{ partial "member.html" . }}
     {{ end }}
 </div>
