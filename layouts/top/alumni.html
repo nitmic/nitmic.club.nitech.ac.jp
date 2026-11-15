@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<main class="main" role="main">
+    <article class="post">
+        <header class="post__header">
+            <h1 class="post__title">{{ .Title }}</h1>
+        </header>
+        <div class="content post__content clearfix">
+            {{ .Content }}
+        </div>
+    </article>
+
+    {{ $hasMembers := false }}
+    {{ range hugo.Data.member }}
+        {{ $members := where .Members "past" true }}
+        {{ if gt (len $members) 0 }}
+            {{ $hasMembers = true }}
+            {{ with .Year }}
+            <h4>{{ . }}入学</h4>
+            {{ end }}
+            <div class="cards">
+                {{ range $members }}
+                    {{ partial "member.html" . }}
+                {{ end }}
+            </div>
+            <br>
+        {{ end }}
+    {{ end }}
+
+    {{ if not $hasMembers }}
+    <p>過去のメンバーの紹介は準備中です。</p>
+    {{ end }}
+</main>
+
+{{ end }}
